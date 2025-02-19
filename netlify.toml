@@ -1,0 +1,6 @@
+[build]
+  command = "hugo"            # This is the build command for Hugo
+  publish = "public"          # This is the directory where the generated site will be stored
+
+[build.environment]
+  HUGO_VERSION = "0.144.1"     # Specify the Hugo version you want to use (replace with the version you need)
