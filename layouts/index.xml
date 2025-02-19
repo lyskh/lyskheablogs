@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Everything Journal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on The Everything Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 00:08:48 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me &amp; Whys</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;She&amp;rsquo;s beautiful,&amp;rdquo;&lt;/em&gt; she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she&amp;rsquo;s watching right now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stability &amp; Novelty</title>
+      <link>//localhost:1313/posts/stability-novelty/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/stability-novelty/</guid>
+      <description>&lt;p&gt;&lt;em&gt;9:09 PM&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;People are different and built in their own ways. We have different tastes, outlooks, and opinions on how we want our life. Unfortunately for me, I crave stability over novelty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The One Place</title>
+      <link>//localhost:1313/posts/one-place/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/one-place/</guid>
+      <description>&lt;p&gt;One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
