@@ -1,6 +1,7 @@
 [build]
-  command = "hugo"            # This is the build command for Hugo
-  publish = "public"          # This is the directory where the generated site will be stored
+  command = "hugo"
+  publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.144.1"     # Specify the Hugo version you want to use (replace with the version you need)
+  HUGO_VERSION = "0.XX.X"  # Your Hugo version
+  GO_VERSION = "1.24"      # Specify Go version 1.19
