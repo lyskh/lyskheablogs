@@ -3,5 +3,5 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.XX.X"  # Your Hugo version
+  HUGO_VERSION = "0.144.2"  # Your Hugo version
   GO_VERSION = "1.24"      # Specify Go version 1.19
