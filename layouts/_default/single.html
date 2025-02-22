@@ -18,6 +18,11 @@
                     <img class="u-photo hidden" src="{{ with $.Site.Author.image }}{{ . }}{{ else }}{{ end }}" />
                     <span class="p-name hidden" rel="me">{{ with .Params.author }}{{ . }}{{ else }}{{ $.Site.Author.name }}{{ end }}</span>
                 </span>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" 
+                    target="_blank" rel="noopener noreferrer">
+                    Share on Facebook
+                    </a>
+
             </div>
             <div class="e-content">
                 {{ .Content }}
