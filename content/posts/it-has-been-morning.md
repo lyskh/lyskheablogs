@@ -2,7 +2,6 @@
 date = '2025-02-22T13:32:28+08:00'
 draft = false
 title = 'It Has Been Morning'
-image = '/images/.jpg'
 +++
 Dawn wakes us up in ways that are different. I wonder what kind of dawn awaits me tonight. Or later, if you're gonna be strict. Will I face new waves of darkness, rain, and the pitter-patter of its drops letting me know of its existence? Or will I be awakened to the warmth of the lovely Yellow Face, inanimate as she is?  
 
