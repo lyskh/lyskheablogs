@@ -11,7 +11,7 @@ I love it when things take their time to grow, I love seeing growth over a long 
 
 There is a special grace in the middle – the mundane, the zero, the grey – a time when flowers didn't bloom when expected, but you kept watering consistently, enduringly, and patiently.
 
-some things are made to endure by enduring; some of which cannot be achieved without consistent repetition.
+Some things are made to endure by enduring; some of which cannot be achieved without consistent repetition.
 character takes time. love takes time. I think almost all the most beautiful things we want in life must take time.
 does this mean those who crave novelty are lesser in their ideals?
 
