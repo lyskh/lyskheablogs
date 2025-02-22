@@ -3,10 +3,15 @@
     <head>
         <meta property="og:title" content="{{ .Title }}">
         <meta property="og:description" content="{{ .Summary }}">
-        <meta property="og:image" content="{{ .Params.image | absURL }}">
         <meta property="og:url" content="{{ .Permalink }}">
         <meta property="og:type" content="article">
-        <meta property="og:site_name" content="The Everything Journal">        
+        <meta property="og:site_name" content="The Everything Journal">
+        
+        {{ with .Params.image }}
+        <meta property="og:image" content="{{ . | absURL }}">
+        {{ else }}
+        <meta property="og:image" content="{{ "/images/default-thumbnail.jpg" | absURL }}">
+        {{ end }}      
     </head>
 
     {{- partial "head.html" . -}}
