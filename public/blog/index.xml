@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Everything Journal</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The Everything Journal</description>
+    <title>Blogs on The Everything Journal</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2025 00:08:48 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 13:32:28 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It Has Been Morning</title>
+      <link>http://localhost:1313/blog/it-has-been-morning/</link>
+      <pubDate>Sat, 22 Feb 2025 13:32:28 +0800</pubDate>
+      <guid>http://localhost:1313/blog/it-has-been-morning/</guid>
+      <description>&lt;p&gt;Dawn wakes us up in ways that are different. I wonder what kind of dawn awaits me tonight. Or later, if you&amp;rsquo;re gonna be strict. Will I face new waves of darkness, rain, and the pitter-patter of its drops letting me know of its existence? Or will I be awakened to the warmth of the lovely Yellow Face, inanimate as she is?&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, I look for hope when there has been none. It&amp;rsquo;s hard to see it if I am surrounded by clouds of darkness and despair. But hope in itself irrigates the land we&amp;rsquo;re upon. It matters not how many fogs there are about, as long as the ground is steady. It may, for a while, blind us, but we can always keep walking – yes, walking blindly. Even if it&amp;rsquo;s unclear, as long as you&amp;rsquo;re moving, you&amp;rsquo;re living. Life goes on, and we aren&amp;rsquo;t the better for it if we remain stuck in the clouds.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Me &amp; Whys</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/blog/my-first-post/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
       <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;She&amp;rsquo;s beautiful,&amp;rdquo;&lt;/em&gt; she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she&amp;rsquo;s watching right now.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;I wonder what&amp;rsquo;s her name,&amp;rdquo;&lt;/em&gt; the candidate moved forward and stepped onto the platform to formally introduce herself. She was beautiful and her smile lit up her pretty face as her eyes gleamed a confident glow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stability &amp; Novelty</title>
-      <link>http://localhost:1313/posts/stability-novelty/</link>
+      <link>http://localhost:1313/blog/stability-novelty/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/stability-novelty/</guid>
+      <guid>http://localhost:1313/blog/stability-novelty/</guid>
       <description>&lt;p&gt;&lt;em&gt;9:09 PM&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;People are different and built in their own ways. We have different tastes, outlooks, and opinions on how we want our life. Unfortunately for me, I crave stability over novelty.&lt;/p&gt;&#xA;&lt;p&gt;I love it when things take their time to grow, I love seeing growth over a long period of time, and even after decadence and failures, and I love it when patience is patient in each of us – what I meant is how patience teaches us to be patient with ourselves, others, and the things or the outcomes in our lives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The One Place</title>
-      <link>http://localhost:1313/posts/one-place/</link>
+      <link>http://localhost:1313/blog/one-place/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/one-place/</guid>
+      <guid>http://localhost:1313/blog/one-place/</guid>
       <description>&lt;p&gt;&lt;em&gt;Small thoughts for fleeting times&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.&lt;/p&gt;</description>
     </item>
   </channel>
