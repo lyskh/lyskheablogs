@@ -1,7 +1,14 @@
 {{ $min := 1 }}
-<!-- Minimum number of your image filenames -->
 {{ $max := .Site.Params.numImages }}
-<!-- Maximum number of your image filenames -->
-{{ $randomNumber := (add (mul (math.Rand) (add (sub $max $min) 1)) $min) | int }}
-<!-- Generate random number within range -->
+{{ $usedNumbers := slice }}  <!-- Store used numbers -->
+
+{{ $randomNumber := 0 }}
+{{ range seq $max }}
+    {{ $randomNumber = (add (mul (math.Rand) (add (sub $max $min) 1)) $min) | int }}
+    {{ if not (in $usedNumbers $randomNumber) }}
+        {{ $usedNumbers = $usedNumbers | append $randomNumber }}
+        {{ break }}
+    {{ end }}
+{{ end }}
+
 <img src="/images/{{ $randomNumber }}.jpg" alt="{{ .Title }}">
