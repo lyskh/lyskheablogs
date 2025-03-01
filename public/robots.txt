@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /drafts/
 Allow: /
-Sitemap: https://yourblog.com/sitemap.xml
+Sitemap: https://theeverythingjournal.netlify.app/sitemap.xml

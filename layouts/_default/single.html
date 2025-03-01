@@ -1,6 +1,16 @@
 {{ define "main" }}
     {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $randomNumber := (add (mul (math.Rand) (add (sub $max $min) 1)) $min) | int }}
 
+    <head>{{ if .Params.image }}
+        <meta property="og:image" content="{{ .Params.image | absURL }}">
+      {{ else }}
+        <meta property="og:image" content="{{ .Site.Params.defaultImage | absURL }}">
+      {{ end }}
+      <meta property="og:title" content="{{ .Title }}">
+      <meta property="og:description" content="{{ .Summary }}">
+      <meta property="og:url" content="{{ .Permalink }}">
+      <meta property="og:type" content="article">
+      </head>
     <section class="hero"
     style='background-image: url("{{ with .Params.image }}{{ . }}{{ else }}/images/{{ $randomNumber }}.jpg{{ end }}"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
     id="heroSection" onload="adjustTextColor(this)">
