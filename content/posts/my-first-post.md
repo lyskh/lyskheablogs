@@ -12,7 +12,7 @@ title = 'Me & Whys'
 
 *"Now I know what to name her."*
 
-And on January 21, 2003, a beautiful infant came into the world. 
+And on a sunny morning, a beautiful infant came into the world. 
 
 *"Her name is Allysa Khae."*
 
