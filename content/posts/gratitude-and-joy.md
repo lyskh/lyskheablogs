@@ -88,9 +88,9 @@ I had no choice, but by grace, I felt forced to look at things gratefully. My ey
 
 It still came as a challenge for me, since sometimes the situations got worse, but now I have learned that **joy and gratitude are both choices I can make no matter how bad things get.**
 
-***The good for me was Christ. I will forever be foremostly grateful for His salvation and relationship with me. He chose me when I would never have chosen myself.***
+***The good in my life was Christ. I will forever be foremostly grateful for His salvation and my relationship with Him. He chose me when I would never have chosen myself.***
 
-Practicing gratitude is a life-changer for me. It was the means that God used to make me enjoy the things He has bought for me at the cost of His blood. It made me less entitled, and more focused on the now than what or how I've wanted things to be. Gratitude brought about by grace is something that I realized, not a small thing. Instead of looking to the missing things, gratitude turns our attention to what has already been given to us. It trusts that in the face of hardships, God is working something behind the mess.  
+Practicing gratitude was a real life-changer. It was the means that God used to make me enjoy the things He has bought at the cost of His blood. It made me less entitled, and more focused on the now than what or how I've wanted things to be. Gratitude brought about by grace is something that I realized, not a small thing. Instead of looking to the missing things, gratitude turns our attention to what has already been given to us. It trusts that in the face of hardships, God is working something behind the mess.  
 
 Gratitude and joy go hand-in-hand. If you can find things to be grateful for in everything no matter where you are in life, it's easier to focus more on garnering joy even in the presence of pain. "Joy and pain can coexist," indeed. Joy is never the absence of pain, it is what helps us get through it. Christians can have a joy that can be made even in the midst of chaos.  
 
