@@ -28,4 +28,4 @@ Now that I'm here, though, I’m not exactly sure where to begin. At first, this
 
 I blog to express myself, to put something positive, valuable, and authentic into the world. I want this space to be as real as possible—unfiltered, unapologetic, and entirely me.  
 
-**Welcome to my first article! It won’t be my last.**  
+## **Welcome to my first article! It won’t be my last.**  

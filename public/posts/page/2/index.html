@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-        <meta property="og:title" content="The One Place">
-        <meta property="og:description" content="Small thoughts for fleeting times
-One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.">
+        <meta property="og:title" content="Posts">
+        <meta property="og:description" content="">
         <meta property="og:image" content="http://localhost:1313/">
-        <meta property="og:url" content="http://localhost:1313/posts/one-place/">
+        <meta property="og:url" content="http://localhost:1313/posts/">
         <meta property="og:type" content="article">
         <meta property="og:site_name" content="The Everything Journal">        
     </head><head>
@@ -15,7 +14,7 @@ One can long for peace and quiet. Dream of being drifted away, somewhere far whe
     <link href="/images/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
     <link href="/images/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
     <link href="/images/fav/site.webmanifest" rel="manifest"/>
-    <title>The One Place | The Everything Journal</title>
+    <title>Posts | The Everything Journal</title>
     <link href="/css/styles.css" rel="stylesheet"/>
     <link href="/css/custom.css" rel="stylesheet"/>
     
@@ -31,129 +30,70 @@ One can long for peace and quiet. Dream of being drifted away, somewhere far whe
     </nav>
 </header>
 
-    
+    <section class="hero">
+        <h1 class="p-name">Posts</h1>
+        <form action='' class="form-inline" id="search" method="get">
+    <label for="search-input" hidden="">Search site</label>
+    <input id="search-input" name="query" placeholder="Type here to search" type="text"/>
+    <button type="submit" value="search">Search</button>
+</form>
 
-    <section class="hero"
-    style='background-image: url("/images/4.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
-    id="heroSection" onload="adjustTextColor(this)">
-        <div>
-            <h1 class="p-name" id="textOverlay">The One Place</h1>
-        </div>
     </section>
-    <main class="post h-entry container row">
-        <div class="post">
-            <div class="post-data row">
-                <time class="dt-published" datetime="2025-02-19 00:08:48 &#43;0800 PST">
-                    <a class="u-url" href="http://localhost:1313/posts/one-place/">Feb 19, 2025</a>
-                </time>
-                <span rel="author" class="p-author h-card">
-                    <img class="u-photo hidden" src="" />
-                    <span class="p-name hidden" rel="me"></span>
-                </span>
-                <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fposts%2fone-place%2f" 
-                    target="_blank" rel="noopener noreferrer">
-                    Share on Facebook
-                </a>
+    <main class="h-entry e-content container col">
+        
+        
 
-            </div>
-            <div class="e-content">
-                <p><em>Small thoughts for fleeting times</em></p>
-<p>One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.</p>
-<p>But there is one place. A place of peace and quiet, where you can remain as you are — loved and accepted.</p>
+  
+  
+  
 
+
+<div class="cards" id="results">
+    
+    <div class="card h-entry">
+        <a href="http://localhost:1313/posts/one-place/" class="u-url">
+            
                 
+
+
+
+
+
+<img src="/images/11.jpg" alt="The One Place">
+
+            
+            <div class="text">
+                <h2 class="p-name">The One Place</h2>
+                <p class="small e-content"><p><em>Small thoughts for fleeting times</em></p>
+<p>One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.</p></p>
             </div>
+        </a>
+    </div>
+    
+</div>
+
+
+
+    <div class="pagination">
+        
+            <a href="/posts/">before</a>
+        
+        <div class="pages">
+            
+                <a href="/posts/">1</a>
+            
+                <a href="/posts/page/2/" class="active">2</a>
+            
         </div>
         
-            
-            
-            
-            
-        
+    </div>
+
+
     </main>
-    <script>
-        function adjustTextColor(sectionId) {
-            const section = document.getElementById(sectionId);
-            const style = window.getComputedStyle(section);
-            const imageUrl = style
-                .backgroundImage
-                .slice(4, -1)
-                .replace(/["']/g, "");
-            const image = new Image();
-            image.src = imageUrl;
-            image.onload = function () {
-                const canvas = document.createElement('canvas');
-                const context = canvas.getContext('2d');
-                canvas.width = image.width;
-                canvas.height = image.height;
-                context.drawImage(image, 0, 0, image.width, image.height);
-                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
-                const data = imageData.data;
-                let r = 0,
-                    g = 0,
-                    b = 0;
-                for (let i = 0; i < data.length; i += 4) {
-                    r += data[i];
-                    g += data[i + 1];
-                    b += data[i + 2];
-                }
-                r /= (data.length / 4);
-                g /= (data.length / 4);
-                b /= (data.length / 4);
-                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
-                const textColor = brightness > 128
-                    ? 'black'
-                    : 'white';
-                const shadowColor = brightness > 128
-                    ? 'rgba(255, 255, 255, 0.7)'
-                    : 'rgba(0, 0, 0, 0.7)';
-                const textOverlay = document.getElementById('textOverlay');
-                textOverlay.style.color = textColor;
-                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
-            };
-        }
-        
-        adjustTextColor('heroSection');
-    </script>
-    <script>
-        window.addEventListener('DOMContentLoaded', () => {
-            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
-                entries.forEach(entry => {
-                    const id = entry
-                        .target
-                        .getAttribute('id');
-
-                    if (entry.intersectionRatio > 0) {
-                        clearActiveStatesInTableOfContents();
-                        document
-                            .querySelector(`nav li a[href="#${id}"]`)
-                            .parentElement
-                            .classList
-                            .add('active');
-                    }
-                });
-            });
-            document
-                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
-                .forEach((section) => {
-                    observerForTableOfContentActiveState.observe(section);
-                });
-
-        });
-
-        function clearActiveStatesInTableOfContents() {
-            document
-                .querySelectorAll('nav li')
-                .forEach((section) => {
-                    section
-                        .classList
-                        .remove('active');
-                });
-        }
-    </script>
 <footer>
     <div class="social-media">
         
+            <a href="https://github.com/lyskh"><img alt="GitHub" src="/social/github.svg"/></a>
             <a href="https://github.com/lyskh"><img alt="GitHub" src="/social/github.svg"/></a>
         
     </div>

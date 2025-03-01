@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta name="generator" content="Hugo 0.143.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
@@ -36,46 +36,50 @@
 
     
   
-        {{ $paginator := .Paginate .Site.RegularPages 4 }} <!-- Limits posts to 4 per page -->
+         
 
         <div class="cards" id="results">
-            {{ range $paginator.Pages }}  <!-- Correctly paginates posts -->
+              
             <div class="card h-entry">
-                <a href="{{ .Permalink }}" class="u-url">
-                    {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ .Title }}" class="u-photo">
-                    {{ else }}
-                        {{ partial "randImage" . }}
-                    {{ end }}
+                <a href="http://localhost:1313/posts/one-place/" class="u-url">
+                    
+                        
+
+
+
+
+
+<img src="/images/10.jpg" alt="The One Place">
+
+                    
                     <div class="text">
-                        <h2 class="p-name">{{ .Title }}</h2>
-                        <p class="small e-content">{{ .Summary | plainify | truncate 200 }}</p>
+                        <h2 class="p-name">The One Place</h2>
+                        <p class="small e-content">Small thoughts for fleeting times
+One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, …</p>
                     </div>
                 </a>
             </div>
-            {{ end }}
+            
         </div>
         
-        <!-- Pagination Controls -->
-        {{ if gt $paginator.TotalPages 1 }}
+        
+        
             <div class="pagination">
-                {{ if $paginator.HasPrev }}
-                    <a href="{{ $paginator.Prev.URL }}">before</a>
-                {{ else }}
-                    <p></p>
-                {{ end }}
+                
+                    <a href="/">before</a>
+                
                 <div class="pages">
-                    {{ range $paginator.Pagers }}
-                        <a href="{{ .URL }}"{{ if eq . $paginator }} class="active"{{ end }}>{{ .PageNumber }}</a>
-                    {{ end }}
+                    
+                        <a href="/">1</a>
+                    
+                        <a href="/page/2/" class="active">2</a>
+                    
                 </div>
-                {{ if $paginator.HasNext }}
-                    <a href="{{ $paginator.Next.URL }}">more</a>
-                {{ else }}
+                
                     <p></p>
-                {{ end }}
+                
             </div>
-        {{ end }}
+        
         
 
 
