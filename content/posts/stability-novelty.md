@@ -2,6 +2,8 @@
 date = '2025-02-19T00:08:48+08:00'
 draft = false
 title = 'Stability & Novelty'
+tags = ['Stability', 'Novelty']
+categories = ['Personal Growth', 'Life']
 +++
 *9:09 PM*
 

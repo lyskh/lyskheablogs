@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on The Everything Journal</title>
+    <link>http://localhost:1313/tags/author/</link>
+    <description>Recent content in Author on The Everything Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 00:08:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me &amp; Whys</title>
+      <link>http://localhost:1313/me-whys/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>http://localhost:1313/me-whys/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;She&amp;rsquo;s beautiful,&amp;rdquo;&lt;/em&gt; she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she&amp;rsquo;s watching right now.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;I wonder what&amp;rsquo;s her name,&amp;rdquo;&lt;/em&gt; the candidate moved forward and stepped onto the platform to formally introduce herself. She was beautiful and her smile lit up her pretty face as her eyes gleamed a confident glow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

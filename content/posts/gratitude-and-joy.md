@@ -2,6 +2,8 @@
 date = '2025-03-01T13:13:25+08:00'
 draft = false
 title = 'Gratitude and Joy'
+tags = ['Gratitude', 'Joy', 'Mindfulness']
+categories = ['Personal Growth']
 +++
 # Gratitude - Why It's Important to Choose Joy
 

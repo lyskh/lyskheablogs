@@ -2,9 +2,32 @@ baseURL = 'https://theeverythingjournal.netlify.app'
 languageCode = 'en-us'
 title = 'The Everything Journal'
 theme = 'quint'
+enableRobotsTXT = true
+canonifyURLs = true
+
 
 # Pagination - Move 'paginate' to the top level
 paginate = 4  # This is the correct way to set the number of posts per page
+
+[permalinks]
+  posts = "/:slug/"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "tags"
+  weight = 100
+
+[[related.indices]]
+  name = "categories"
+  weight = 80
 
 [params]
 css = ["css/custom.css"]

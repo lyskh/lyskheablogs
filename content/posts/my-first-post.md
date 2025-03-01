@@ -2,6 +2,8 @@
 date = '2025-02-19T00:08:48+08:00'
 draft = false
 title = 'Me & Whys'
+tags = ['Life', 'Author']
+categories = ['Life']
 +++
 
 *"She's beautiful,"* she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she's watching right now. 
