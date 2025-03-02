@@ -2,6 +2,7 @@
 date = '2025-02-19T00:08:48+08:00'
 draft = false
 title = 'Me & Whys'
+description = 'My first article'
 tags = ['Life', 'Author']
 categories = ['Life']
 +++

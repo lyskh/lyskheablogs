@@ -2,6 +2,7 @@
 date = '2025-02-22T13:32:28+08:00'
 draft = false
 title = 'It Has Been Morning'
+description = 'Looking forward'
 tags = ['Life']
 categories = ['Life']
 +++

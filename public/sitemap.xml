@@ -1,65 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gratitude/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gratitude-and-joy/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/joy/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mindfulness/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/personal-growth/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-01T13:13:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/it-has-been-morning/</loc>
-    <lastmod>2025-02-22T13:32:28+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2025-02-22T13:32:28+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
-    <lastmod>2025-02-22T13:32:28+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/author/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/me-whys/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/novelty/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/prose/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/short-prose/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stability/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stability-novelty/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/the-one-place/</loc>
-    <lastmod>2025-02-19T00:08:48+08:00</lastmod>
-  </url>
-</urlset>
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Everything Journal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on The Everything Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 00:08:48 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me &amp; Whys</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;She&amp;rsquo;s beautiful,&amp;rdquo;&lt;/em&gt; she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she&amp;rsquo;s watching right now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stability &amp; Novelty</title>
+      <link>//localhost:1313/posts/stability-novelty/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/stability-novelty/</guid>
+      <description>&lt;p&gt;&lt;em&gt;9:09 PM&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;People are different and built in their own ways. We have different tastes, outlooks, and opinions on how we want our life. Unfortunately for me, I crave stability over novelty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The One Place</title>
+      <link>//localhost:1313/posts/one-place/</link>
+      <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
+      <guid>//localhost:1313/posts/one-place/</guid>
+      <description>&lt;p&gt;One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.&lt;/p&gt;</description>
+    </item>
+        <item>
+      <title>It Has Been Morning</title>
+      <link>http://localhost:1313/posts/it-has-been-morning/</link>
+      <pubDate>Sat, 22 Feb 2025 13:32:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/it-has-been-morning/</guid>
+      <description>&lt;p&gt;Dawn wakes us up in ways that are different. I wonder what kind of dawn awaits me tonight. Or later, if you&amp;rsquo;re gonna be strict. Will I face new waves of darkness, rain, and the pitter-patter of its drops letting me know of its existence? Or will I be awakened to the warmth of the lovely Yellow Face, inanimate as she is?&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, I look for hope when there has been none. It&amp;rsquo;s hard to see it if I am surrounded by clouds of darkness and despair. But hope in itself irrigates the land we&amp;rsquo;re upon. It matters not how many fogs there are about, as long as the ground is steady. It may, for a while, blind us, but we can always keep walking – yes, walking blindly. Even if it&amp;rsquo;s unclear, as long as you&amp;rsquo;re moving, you&amp;rsquo;re living. Life goes on, and we aren&amp;rsquo;t the better for it if we remain stuck in the clouds.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,20 +1,37 @@
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}">
-    <meta name="keywords" content="your, keywords, here">
+    
+    <!-- Meta Descriptions -->
+    <meta name="description" content="{{ .Params.description | default .Summary }}">
+
+    <!-- Open Graph for Social Media -->
     <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}">
-    <meta property="og:image" content="{{ .Site.BaseURL }}images/featured.jpg">
+    <meta property="og:description" content="{{ .Params.description | default .Summary }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ .Site.Params.image | absURL }}{{ end }}">
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ .Params.description | default .Summary }}">
+    <meta name="twitter:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ .Site.Params.image | absURL }}{{ end }}">
+
+    <!-- Favicons -->
     <link href="/images/fav/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
     <link href="/images/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
     <link href="/images/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
     <link href="/images/fav/site.webmanifest" rel="manifest"/>
+
+    <!-- Title -->
     <title>{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+
+    <!-- Stylesheets -->
     <link href="/css/styles.css" rel="stylesheet"/>
     {{ range .Site.Params.css -}}
         <link href="/{{ . }}" rel="stylesheet"/>
     {{- end }}
+
     {{ partial "extra_head.html" . }}
 </head>

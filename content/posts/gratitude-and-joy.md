@@ -2,6 +2,7 @@
 date = '2025-03-01T13:13:25+08:00'
 draft = false
 title = 'Gratitude and Joy'
+description = 'A reflection on the importance of gratitude and joy in our lives.'
 tags = ['Gratitude', 'Joy', 'Mindfulness']
 categories = ['Personal Growth']
 +++
