@@ -30,6 +30,7 @@ paginate = 4  # This is the correct way to set the number of posts per page
   weight = 80
 
 [params]
+disableKinds = ["taxonomy", "term"] # Make sure "robotsTXT" is NOT listed here
 css = ["css/custom.css"]
 numImages = 30
 useToc = true

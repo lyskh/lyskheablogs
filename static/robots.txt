@@ -1,4 +1,2 @@
-User-agent: *
-Disallow: /drafts/
 Allow: /
 Sitemap: https://theeverythingjournal.netlify.app/sitemap.xml
