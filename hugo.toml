@@ -10,12 +10,14 @@ canonifyURLs = true
 
 # Pagination - Move 'paginate' to the top level
 paginate = 4  # This is the correct way to set the number of posts per page
-[outputs]
-  home = ["HTML", "RSS", "SITEMAP"]
 
 [imaging]
 quality = 80  # Reduce image quality to 80 (good balance)
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [permalinks]
   posts = "/:slug/"
