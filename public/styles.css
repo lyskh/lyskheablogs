@@ -2,8 +2,9 @@
 :root {
     --primary-bg: #fff;
     --primary-text: #101112;
+    --primary-text-hover: #695835;
     --secondary-text: #252627;
-    --link-color: #793d02;
+    --link-color: #423a33;
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
@@ -59,7 +60,7 @@ a:visited {
 
 a:hover,
 a:focus {
-    color: var(--primary-text);
+    color: var(--primary-text-hover);
 }
 
 details {

@@ -1,7 +1,7 @@
 baseURL = 'https://theeverythingjournal.netlify.app'
 languageCode = 'en-us'
 title = 'The Everything Journal'
-description = 'a blog about everything by lyskhea'
+description = 'Welcome to The Everything Journal, a place where stories come to life through photographs, words, and moments that matter. This blog is a reflection of my journey—capturing the beauty of the world, exploring the ever-changing world of technology, and embracing personal growth along the way. Whether you’re here for inspiration, knowledge, or simply a quiet moment to reflect, I hope you find something that resonates with you. 💫'
 author = 'lyskhea'
 theme = 'quint'
 enableRobotsTXT = true
