@@ -1,9 +1,10 @@
 /* Root Variables */
 :root {
     --primary-bg: #fff;
-    --primary-text: #353d49;
+    --primary-text: #101112;
+    --primary-text-hover: #695b41;
     --secondary-text: #252627;
-    --link-color: #879094;
+    --link-color: #423a33;
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
@@ -69,7 +70,7 @@ a:visited {
 
 a:hover,
 a:focus {
-    color: var(--primary-text);
+    color: var(--primary-text-hover);
 }
 
 details {

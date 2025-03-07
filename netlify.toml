@@ -5,3 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.128.0"  # Your Hugo version
   GO_VERSION = "1.24"      # Specify Go version 1.19
+[[headers]]
+  for = "/*.xml"
+  [headers.values]
+    Content-Type = "application/xml"

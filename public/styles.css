@@ -1,9 +1,9 @@
 /* Root Variables */
 :root {
     --primary-bg: #fff;
-    --primary-text: #353d49;
+    --primary-text: #101112;
     --secondary-text: #252627;
-    --link-color: #879094;
+    --link-color: #793d02;
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
