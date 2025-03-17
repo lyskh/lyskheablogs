@@ -6,6 +6,7 @@ author = 'lyskhea'
 theme = 'quint'
 enableRobotsTXT = true
 canonifyURLs = true
+googleAnalytics = "G-5238SP6F"
 
 
 # Pagination - Move 'paginate' to the top level
