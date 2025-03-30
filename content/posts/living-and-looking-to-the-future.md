@@ -10,7 +10,7 @@ categories = ['Personal Growth']
 
 In my most recent blog, I talked about gratitude and joy and how these two correlate with each other. The importance of choosing to be grateful can be seen in the resulting joy it entails. One sip of coffee with gratitude can greatly align our perspectives and uplift our moods even when things in our life turn sour.
 
-Reminders like this greatly benefit us who are most prone to being forgetful. Being able to be grateful even when things are painful is not a discipline that is easy to incorporate - it has to be wrought by grace. Adopting this mindset also increases the risk of toxic positivity in us if we do it by ourselves which will turn out to be - in the long run - maladaptive in its nature as a coping mechanism when we face bad things.
+Reminders like this greatly benefit us who are most prone to being forgetful. Being able to be grateful even when things are painful is not a discipline that is easy to incorporate - it has to be wrought by grace. Adopting this mindset also increases the risk of toxic positivity in us if we do it by ourselves, which will be damaging for us in the long run.
 
 My purpose in writing this is not to share a mindset that celebrates masochism and pain in an unhealthy way. No, that is not what I want for me nor for you. I hope to inspire other people that even if life will not turn out for the better as we hope because sometimes it just gets worse, we would be grounded enough to not base our happiness on circumstances, people, nor on things which can all lead to disappointments - but to rest our hope on hope.
 
@@ -53,7 +53,7 @@ When storms in life arise and there is nothing to hold onto and when all we can 
 
 We ground ourselves steady in His time-tested words, and hold Him to His word as we trust that He will accomplish what He has started in us, through us, for His glory and our good.
 
-Gratitude creates in us an attitude of looking to things given rather to things denied or lost. It helps us appreciate what we have now, and enables us to look forward. While hope may seem painful sometimes, and not hoping for anything may act as a shield from pain and disappointments, the life you'll be living is a life left un-lived. But we don't need to shy away from the pain and risk of disappointments, we have been given grace, strength, and tools to enable us to hope even in this world of suffering and sin.
+Gratitude creates in us an attitude of looking to things given rather than things denied or lost. It helps us appreciate what we have now, and enables us to look forward. While hope may seem painful sometimes, and not hoping for anything may act as a shield from pain and disappointments, the life you'll be living is a life left un-lived. But we don't need to shy away from the pain and risk of disappointments, we have been given grace, strength, and tools to enable us to hope even in this world of suffering and sin.
 
 While hope is entirely another topic I probably should write about, we shall stick with gratitude for now, and I hope to be given time and wisdom to be able to write about it in the future.
 
