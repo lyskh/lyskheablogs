@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:1313/living-in-the-present-and-looking-to-the-future/</loc>
+        <lastmod>2025-03-30T17:00:47&#43;08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>http://localhost:1313/gratitude-and-joy/</loc>
         <lastmod>2025-03-01T13:13:25&#43;08:00</lastmod>
         <changefreq>weekly</changefreq>

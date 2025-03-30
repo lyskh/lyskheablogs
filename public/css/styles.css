@@ -2,9 +2,9 @@
 :root {
     --primary-bg: #fff;
     --primary-text: #101112;
-    --primary-text-hover: #695835;
+    --primary-text-hover: #736a56;
     --secondary-text: #252627;
-    --link-color: #412404;
+    --link-color: #c8b266;
     --shadow-color: rgba(0, 0, 0, 0.15);
     --borders: #555;
 }
@@ -14,7 +14,7 @@
         --primary-bg: #252627;
         --primary-text: #fff;
         --secondary-text: #fefefe;
-        --link-color: #1f1f1f;
+        --link-color: #fff8e3;
     }
 
     img {
@@ -389,6 +389,11 @@ ul.search-results li a {
     background-color: var(--link-color);
     transition: background-color 0.3s ease, color 0.3s ease;
 }
+
+.tag:hover {
+    color: #736a56;
+}
+
 
 .tag, a:visited.tag {
     color: var(--primary-bg);
