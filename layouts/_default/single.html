@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $randomNumber := (add (mul (math.Rand) (add (sub $max $min) 1)) $min) | int }}
+    {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $postSlug := .Slug }}{{ $slugHash := 0 }}{{ range $i, $char := split $postSlug "" }}{{ $asciiVal := (index (split $char "") 0) | int }}{{ $slugHash = add $slugHash $asciiVal }}{{ end }}{{ $imageNumber := (add (mod $slugHash (sub $max $min)) $min) }}
 
     <head>{{ if .Params.image }}
         <meta property="og:image" content="{{ .Params.image | absURL }}">
@@ -12,7 +12,7 @@
       <meta property="og:type" content="article">
       </head>
     <section class="hero"
-    style='background-image: url("{{ with .Params.image }}{{ . }}{{ else }}/images/{{ $randomNumber }}.webp{{ end }}"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
+    style='background-image: url("{{ with .Params.image }}{{ . }}{{ else }}/images/{{ $imageNumber }}.webp{{ end }}"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
     id="heroSection" onload="adjustTextColor(this)">
         <div>
             <h1 class="p-name" id="textOverlay">{{ .Title }}</h1>

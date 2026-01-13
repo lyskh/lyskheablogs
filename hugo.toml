@@ -10,7 +10,8 @@ googleAnalytics = "G-5238SP6F"
 
 
 # Pagination - Move 'paginate' to the top level
-paginate = 4  # This is the correct way to set the number of posts per page
+[Pagination]
+pagerSize = 4  # This is the correct way to set the number of posts per page
 
 [imaging]
 quality = 80  # Reduce image quality to 80 (good balance)
