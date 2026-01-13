@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on The Everything Journal</title>
-    <link>https://theeverythingjournal.netlify.app/categories/life/</link>
+    <link>http://localhost:1313/categories/life/</link>
     <description>Recent content in Life on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2026 10:49:03 +0800</lastBuildDate>
-    <atom:link href="https://theeverythingjournal.netlify.app/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Psychology of Ordinary Comfort</title>
-      <link>https://theeverythingjournal.netlify.app/the-psychology-of-ordinary-comfort/</link>
+      <link>http://localhost:1313/the-psychology-of-ordinary-comfort/</link>
       <pubDate>Tue, 13 Jan 2026 10:49:03 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/the-psychology-of-ordinary-comfort/</guid>
+      <guid>http://localhost:1313/the-psychology-of-ordinary-comfort/</guid>
       <description>&lt;h2 id=&#34;i-gentle-entry-into-the-ordinary&#34;&gt;I. Gentle Entry Into the Ordinary&lt;/h2&gt;&#xA;&lt;p&gt;Going to school meant doing mundane things: wearing the same old uniforms that I&amp;rsquo;ve used for years, waking up at the same time (inconsistently, however) whenever the alarm clock rings, and undergoing the same old routine I&amp;rsquo;m used to.&lt;/p&gt;&#xA;&lt;p&gt;Whenever these things happened, I mostly just cruised through on autopilot, &lt;em&gt;not minding each step as long as I could get to the next.&lt;/em&gt; After all, the main goal was to go to school.&lt;/p&gt;</description>
     </item>
     <item>
       <title>It Has Been Morning</title>
-      <link>https://theeverythingjournal.netlify.app/it-has-been-morning/</link>
+      <link>http://localhost:1313/it-has-been-morning/</link>
       <pubDate>Sat, 22 Feb 2025 13:32:28 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/it-has-been-morning/</guid>
+      <guid>http://localhost:1313/it-has-been-morning/</guid>
       <description>&lt;p&gt;Dawn wakes us up in ways that are different. I wonder what kind of dawn awaits me tomorrow. Will I face new waves of darkness, rain, and the pitter-patter of its drops letting me know of its existence? Or will I be awakened to the warmth of the lovely Yellow Face, inanimate as she is?&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, I look for hope when there has been none. It&amp;rsquo;s hard to see it if I am surrounded by clouds of darkness and despair. But hope in itself irrigates the land we&amp;rsquo;re upon. Like roots beneath the soil, it works quietly, unseen, steady. It matters not how many fogs there are about, as long as the ground is steady.  It may, for a while, blind us, but we can always keep walking – yes, walk - but with purpose.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Me &amp; Whys</title>
-      <link>https://theeverythingjournal.netlify.app/me-whys/</link>
+      <link>http://localhost:1313/me-whys/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/me-whys/</guid>
+      <guid>http://localhost:1313/me-whys/</guid>
       <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;She&amp;rsquo;s beautiful,&amp;rdquo;&lt;/em&gt; she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she&amp;rsquo;s watching right now.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;I wonder what&amp;rsquo;s her name,&amp;rdquo;&lt;/em&gt; the candidate moved forward and stepped onto the platform to formally introduce herself. She was beautiful and her smile lit up her pretty face as her eyes gleamed a confident glow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stability &amp; Novelty</title>
-      <link>https://theeverythingjournal.netlify.app/stability-novelty/</link>
+      <link>http://localhost:1313/stability-novelty/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/stability-novelty/</guid>
+      <guid>http://localhost:1313/stability-novelty/</guid>
       <description>&lt;p&gt;&lt;em&gt;9:09 PM&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;People are different and built in their own ways. We have different tastes, outlooks, and opinions on how we want our life. Unfortunately for me, I crave stability over novelty.&lt;/p&gt;&#xA;&lt;p&gt;I love it when things take their time to grow, I love seeing growth over a long period of time, and even after decadence and failures, and I love it when patience is patient in each of us – what I meant is how patience teaches us to be patient with ourselves, others, and the things or the outcomes in our lives.&lt;/p&gt;</description>
     </item>
   </channel>

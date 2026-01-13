@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prose on The Everything Journal</title>
-    <link>https://theeverythingjournal.netlify.app/categories/prose/</link>
+    <link>http://localhost:1313/categories/prose/</link>
     <description>Recent content in Prose on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 00:08:48 +0800</lastBuildDate>
-    <atom:link href="https://theeverythingjournal.netlify.app/categories/prose/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/prose/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The One Place</title>
-      <link>https://theeverythingjournal.netlify.app/the-one-place/</link>
+      <link>http://localhost:1313/the-one-place/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/the-one-place/</guid>
+      <guid>http://localhost:1313/the-one-place/</guid>
       <description>&lt;p&gt;&lt;em&gt;Small thoughts for fleeting times&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;One can long for peace and quiet. Dream of being drifted away, somewhere far where no one can see me. Drinking a cup of coffee inside a warm, cozy, little house, content to ignore and be ignored. It is a dream of mine, howbeit, as long as we are in this world, darkness will follow. Sorrows will come, and shadows of doubts will often visit.&lt;/p&gt;</description>
     </item>
   </channel>

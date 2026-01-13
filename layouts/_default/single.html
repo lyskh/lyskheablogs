@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $postSlug := .Slug }}{{ $slugHash := 0 }}{{ range $i, $char := split $postSlug "" }}{{ $asciiVal := (index (split $char "") 0) | int }}{{ $slugHash = add $slugHash $asciiVal }}{{ end }}{{ $imageNumber := (add (mod $slugHash (sub $max $min)) $min) }}
+    {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $dateUnix := .Date.Unix }}{{ $slugLen := len .Slug }}{{ $hashBase := (add (mul $dateUnix 1103515245) (mul $slugLen 12345)) }}{{ $hashMod := (mod $hashBase 1000000) }}{{ $imageNumber := (add (mod $hashMod (sub $max $min)) $min) }}
 
     <head>{{ if .Params.image }}
         <meta property="og:image" content="{{ .Params.image | absURL }}">

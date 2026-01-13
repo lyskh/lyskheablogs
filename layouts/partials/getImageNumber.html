@@ -1,0 +1,10 @@
+{{- $min := 1 -}}
+{{- $max := .imageMax -}}
+{{- $slug := .slug -}}
+{{- $hash := 2654435761 -}}
+{{- range $i, $c := split $slug "" -}}
+  {{- $charCode := 0 -}}
+  {{- if eq $c "a" -}}{{ $charCode = 97 }}{{- else if eq $c "b" -}}{{ $charCode = 98 }}{{- else if eq $c "c" -}}{{ $charCode = 99 }}{{- else if eq $c "d" -}}{{ $charCode = 100 }}{{- else if eq $c "e" -}}{{ $charCode = 101 }}{{- else if eq $c "f" -}}{{ $charCode = 102 }}{{- else if eq $c "g" -}}{{ $charCode = 103 }}{{- else if eq $c "h" -}}{{ $charCode = 104 }}{{- else if eq $c "i" -}}{{ $charCode = 105 }}{{- else if eq $c "j" -}}{{ $charCode = 106 }}{{- else if eq $c "k" -}}{{ $charCode = 107 }}{{- else if eq $c "l" -}}{{ $charCode = 108 }}{{- else if eq $c "m" -}}{{ $charCode = 109 }}{{- else if eq $c "n" -}}{{ $charCode = 110 }}{{- else if eq $c "o" -}}{{ $charCode = 111 }}{{- else if eq $c "p" -}}{{ $charCode = 112 }}{{- else if eq $c "q" -}}{{ $charCode = 113 }}{{- else if eq $c "r" -}}{{ $charCode = 114 }}{{- else if eq $c "s" -}}{{ $charCode = 115 }}{{- else if eq $c "t" -}}{{ $charCode = 116 }}{{- else if eq $c "u" -}}{{ $charCode = 117 }}{{- else if eq $c "v" -}}{{ $charCode = 118 }}{{- else if eq $c "w" -}}{{ $charCode = 119 }}{{- else if eq $c "x" -}}{{ $charCode = 120 }}{{- else if eq $c "y" -}}{{ $charCode = 121 }}{{- else if eq $c "z" -}}{{ $charCode = 122 }}{{- else if eq $c "-" -}}{{ $charCode = 45 }}{{- end -}}
+  {{- if gt $charCode 0 -}}{{ $hash = add (mul $hash 33) $charCode }}{{- end -}}
+{{- end -}}
+{{- add (mod (mod $hash 1000000) (sub $max $min)) $min -}}
