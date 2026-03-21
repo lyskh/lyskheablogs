@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gratitude on The Everything Journal</title>
-    <link>https://theeverythingjournal.netlify.app/tags/gratitude/</link>
+    <link>http://localhost:1313/tags/gratitude/</link>
     <description>Recent content in Gratitude on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Mar 2025 17:00:47 +0800</lastBuildDate>
-    <atom:link href="https://theeverythingjournal.netlify.app/tags/gratitude/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gratitude/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Living in the Present and Looking to the Future</title>
-      <link>https://theeverythingjournal.netlify.app/living-in-the-present-and-looking-to-the-future/</link>
+      <link>http://localhost:1313/living-in-the-present-and-looking-to-the-future/</link>
       <pubDate>Sun, 30 Mar 2025 17:00:47 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/living-in-the-present-and-looking-to-the-future/</guid>
+      <guid>http://localhost:1313/living-in-the-present-and-looking-to-the-future/</guid>
       <description>&lt;h1 id=&#34;living-in-the-present-and-looking-to-the-future-gratitude-and-hope&#34;&gt;Living in the Present and Looking to the Future: Gratitude and Hope&lt;/h1&gt;&#xA;&lt;p&gt;In my most recent blog, I talked about gratitude and joy and how these two correlate with each other. The importance of choosing to be grateful can be seen in the resulting joy it entails. One sip of coffee with gratitude can greatly align our perspectives and uplift our moods even when things in our life turn sour.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gratitude and Joy</title>
-      <link>https://theeverythingjournal.netlify.app/gratitude-and-joy/</link>
+      <link>http://localhost:1313/gratitude-and-joy/</link>
       <pubDate>Sat, 01 Mar 2025 13:13:25 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/gratitude-and-joy/</guid>
+      <guid>http://localhost:1313/gratitude-and-joy/</guid>
       <description>&lt;h1 id=&#34;gratitude---why-its-important-to-choose-joy&#34;&gt;Gratitude - Why It&amp;rsquo;s Important to Choose Joy&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m tired.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;I just want this done.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Why does this keep on happening to me?&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;All of us have said these lines once or twice—or even multiple times a day. We are not immune to the loads of tasks that we might tackle under short notice. Oftentimes, we find it hard to have peace when small inconveniences happen. Things don&amp;rsquo;t go as we planned, work continues to pile up, quizzes and school assignments seem never-ending.&lt;/p&gt;</description>
     </item>
   </channel>

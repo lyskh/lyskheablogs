@@ -12,11 +12,7 @@
     {{ range $paginator.Pages }}
     <div class="card h-entry">
         <a href="{{ .Permalink }}" class="u-url">
-            {{ with .Params.image }}
-            <img src="{{ . }}" alt="{{ .Title }}" class="u-photo">
-            {{ else }}
-                {{ partial "randImage" . }}
-            {{ end }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" class="u-photo">
             <div class="text">
                 <h2 class="p-name">{{ .Title }}</h2>
                 <p class="small e-content">{{ .Summary }}</p>

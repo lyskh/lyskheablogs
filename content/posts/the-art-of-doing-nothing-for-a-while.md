@@ -5,6 +5,7 @@ title = 'The Art of Doing Nothing for a While'
 description = 'Sitting without filling the silence'
 tags = ['Nothingness', 'Stability', 'Peace']
 categories = ['Personal Growth', 'Life']
+image = '/images/7.webp'
 +++
 *Sitting without filling the silence*
  

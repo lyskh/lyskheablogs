@@ -5,6 +5,7 @@ title = 'Gratitude and Joy'
 description = 'A reflection on the importance of gratitude and joy in our lives.'
 tags = ['Gratitude', 'Joy', 'Mindfulness']
 categories = ['Personal Growth']
+image = '/images/1.webp'
 +++
 # Gratitude - Why It's Important to Choose Joy
 

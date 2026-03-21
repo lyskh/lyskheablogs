@@ -5,6 +5,7 @@ title = 'Stability & Novelty'
 description = 'A view on stability and novelty.'
 tags = ['Stability', 'Novelty']
 categories = ['Personal Growth', 'Life']
+image = '/images/6.webp'
 +++
 *9:09 PM*
 

@@ -5,6 +5,7 @@ title = 'It Has Been Morning'
 description = 'Looking forward'
 tags = ['Life']
 categories = ['Life']
+image = '/images/2.webp'
 +++
 Dawn wakes us up in ways that are different. I wonder what kind of dawn awaits me tomorrow. Will I face new waves of darkness, rain, and the pitter-patter of its drops letting me know of its existence? Or will I be awakened to the warmth of the lovely Yellow Face, inanimate as she is?  
 

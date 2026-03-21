@@ -5,6 +5,7 @@ title = 'Me & Whys'
 description = 'My first article'
 tags = ['Life', 'Author']
 categories = ['Life']
+image = '/images/4.webp'
 +++
 
 *"She's beautiful,"* she muttered as she looked at the girl on tv walked down the aisle during the pageant. The pregnant woman watching the tv stared in awe as she favored the girl whom she's watching right now. 

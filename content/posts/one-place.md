@@ -5,6 +5,7 @@ title = 'The One Place'
 description = 'A short prose.'
 tags = ['Short Prose']
 categories = ['Prose']
+image = '/images/5.webp'
 +++
 
 *Small thoughts for fleeting times*

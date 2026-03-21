@@ -5,6 +5,7 @@ title = 'Living in the Present and Looking to the Future'
 description = 'How gratitude cultivates hope.'
 tags = ['Gratitude', 'Joy', 'Hope']
 categories = ['Personal Growth']
+image = '/images/3.webp'
 +++
 # Living in the Present and Looking to the Future: Gratitude and Hope
 
