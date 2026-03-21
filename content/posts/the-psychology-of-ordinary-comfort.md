@@ -8,7 +8,7 @@ categories = ['Personal Growth', 'Life']
 image = '/images/8.webp'
 +++
 
-## I. Gentle Entry Into the Ordinary
+## Gentle Entry Into the Ordinary
 
 Going to school meant doing mundane things: wearing the same old uniforms that I've used for years, waking up at the same time (inconsistently, however) whenever the alarm clock rings, and undergoing the same old routine I'm used to.
 
@@ -20,7 +20,7 @@ Waking up, turning my alarm off, bathing, eating, and brushing were all things I
 
 > It is not bad to undergo periods of change in life that leave us pressured and force us to adjust, whether drastically or minimally. Humans are made to evolve, and sometimes that looks like change and novelty.
 
-## II. The Brain’s Love Language Is Predictability
+## The Brain’s Love Language Is Predictability
 
 But humans are also made for comfort. Pressure changes us, and it can—and should—always be for the better, but prolonged periods under stress are never healthy. **We cannot grow under constant tension; we need recovery.**
 
@@ -28,7 +28,7 @@ Rest allows humans to adapt with resilience and is crucial for emotional regulat
 
 *With how unpredictable the world is becoming, choosing predictability is not regression. It is regulation.*
 
-## III. Why Repetition Feels Like Safety (Not Boredom)
+## Why Repetition Feels Like Safety (Not Boredom)
 
 Habits have always been a topic among scholars and ordinary people alike. According to what we are taught, growth comes from constant change. 
 
@@ -42,7 +42,7 @@ But that's not what I want to focus on today.
 
 The truth is, we can never fully grow and achieve the greatness we want until we allow ourselves to feel **pressure** *and* simultaneously embrace the **comfort of familiarity and rest**. Pressure and pause, together, allow adaptability, innovation, sustained creativity, and emotional maturity. 
 
-## IV. Comfort Is Not Laziness: A Cultural Rebuttal
+## Comfort Is Not Laziness: A Cultural Rebuttal
 
 Productivity culture frames comfort and predictability as weakness. Yet, research shows that **predictability—whether in routine or schedule—actually enhances our capacity to handle growth.** When routines become comfort zones, they allow us to return, rest, meditate, and reflect on what we’ve learned. 
 

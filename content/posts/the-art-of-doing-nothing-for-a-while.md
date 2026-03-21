@@ -11,7 +11,7 @@ image = '/images/7.webp'
  
 ---
  
-## Section I — The Urge to Fill the Silence
+## The Urge to Fill the Silence
  
 We have trained our minds to be busy. Our world surrounds us with applause when we hustle and grind, saying idle hands are for the weak and lazy. To have work to do is noble, especially if the motivation is to purposefully create a life you want with your own hands. Cautionary tales against idleness have their uses, undeniably.
  
@@ -25,7 +25,7 @@ Have you ever felt that? The need to fill every silence as if it's a monster we 
  
 Let me offer you another perspective. What if that silence is not a void waiting to be filled? But to be entered into — embraced — not hurriedly but gently and without urgency.
  
-## Section II — Redefining "Nothing"
+## Redefining "Nothing"
  
 Has there been a time when you wondered why everything looks a lot more colorless? No, it's not your imagination. It is a real thing, and you're not alone in experiencing it.
  
@@ -35,7 +35,7 @@ Perhaps it isn't because the world changed its colors. But could it be because w
  
 What if stillness — what we often call nothingness — isn't an empty space that needs filling, but a quiet container holding its own kind of joy? Not because the absence itself creates happiness, but because of what becomes possible within it. In that hush, without the constant rush or expectation of noise, there's room to notice, to feel, to simply be — without the pressure to answer every silence with sound.
  
-## Section III — A Soft Routine of Doing Nothing
+## A Soft Routine of Doing Nothing
  
 *A gentle way to approach stillness*
  
@@ -55,7 +55,7 @@ You may notice small things instead — the faint hum of a distant appliance, th
  
 Time will loosen its edges here. When the moment feels complete — not finished, just quietly enough — stand up. No closing ritual, no reflection required. Just a simple return.
  
-## Section IV — What Emerges in the Quiet
+## What Emerges in the Quiet
  
 Let it be a space without demand.
  
@@ -65,7 +65,7 @@ Some days will feel restless. Your thoughts may wander in loose circles, or resi
  
 Just come back when you can.
  
-## Section V — Letting It Be Enough
+## Letting It Be Enough
  
 The value is not in achieving stillness, but in returning to it — again and again, in small, quiet ways. A breath noticed. A pause between movements. A brief softening of attention. These are not milestones, just gentle re-orientations.
  
