@@ -56,7 +56,7 @@
 
     
   
-        {{ $paginator := .Paginate .Site.RegularPages 4 }} <!-- Limits posts to 4 per page -->
+        {{ $paginator := .Paginate .Site.RegularPages 6 }} <!-- Limits posts to 6 per page -->
 
         <div class="cards" id="results">
             {{ range $paginator.Pages }}  <!-- Correctly paginates posts -->

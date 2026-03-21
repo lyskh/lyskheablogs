@@ -1,11 +1,11 @@
 {{ $paginator := .Paginator }}
 {{ if .IsHome }}
   {{ $posts := where .Site.RegularPages "Type" "posts" }}  
-  {{ $paginator = .Paginate $posts 3 }}  <!-- Change '3' to the number of posts per page -->
+  {{ $paginator = .Paginate $posts 6 }}
 {{ else }}
   {{ $currentSection := .Section }}
   {{ $posts := where .Site.Pages "Section" $currentSection }}
-  {{ $paginator = .Paginate $posts 3 }}
+  {{ $paginator = .Paginate $posts 6 }}
 {{ end }}
 
 <div class="cards" id="results">

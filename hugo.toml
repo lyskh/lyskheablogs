@@ -8,10 +8,8 @@ enableRobotsTXT = true
 canonifyURLs = true
 googleAnalytics = "G-5238SP6F"
 
-
-# Pagination - Move 'paginate' to the top level
-[Pagination]
-pagerSize = 6  # This is the correct way to set the number of posts per page
+[pagination]
+pagerSize = 6
 
 [imaging]
 quality = 80  # Reduce image quality to 80 (good balance)
