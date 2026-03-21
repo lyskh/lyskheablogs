@@ -72,3 +72,13 @@ The value is not in achieving stillness, but in returning to it — again and ag
 Stillness is not something to master or hold onto. It is something you visit. Sometimes briefly, sometimes without noticing when you've arrived or left. There is no need to make it permanent.
  
 Sit where you are. Let your hands rest without adjusting them. Notice one thing you can hear, one thing you can feel, and one thing you can see. Stay there for a minute — without naming it, without holding it.
+
+---
+
+If you’d like to return to moments like this more often,  
+I’ve put together a quiet little ebook for my newsletter.
+
+Nothing structured, nothing to keep up with—  
+just a gentle companion for slower days.
+
+You can find it [here](https://the-everything-journal.kit.com/cbe16bf23f).
