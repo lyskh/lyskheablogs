@@ -51,3 +51,13 @@ contact = "You can write me an [email](mailto:me)."
     url = "https://github.com/lyskh"
     icon = "/social/github.svg"
     name = "GitHub"
+
+[[params.social]]
+  url = "https://www.facebook.com/people/The-Everything-Journal/61574084311303/"
+  icon = "/social/facebook.svg"
+  name = "Facebook"
+
+[[params.social]]
+  url = "https://instagram.com/theeverythingjournal_lyskhea/"
+  icon = "/social/instagram.svg"
+  name = "Instagram"

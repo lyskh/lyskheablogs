@@ -184,6 +184,18 @@ nav a {
     text-decoration: none;
 }
 
+.nav-social-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+}
+
+.nav-social-link img {
+    width: 20px;
+    height: 20px;
+}
+
 .container {
     display: flex;
 }
