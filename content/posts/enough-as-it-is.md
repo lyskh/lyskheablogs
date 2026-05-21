@@ -1,6 +1,6 @@
 +++
 date = '2026-05-21T23:59:41+08:00'
-draft = false
+draft = true
 title = 'Enough as It Is'
 description = 'A quiet reflection on the habit of always wanting more, and the gentle practice of recognizing what is already enough.'
 tags = ['Gratitude', 'Joy', 'Mindfulness']
