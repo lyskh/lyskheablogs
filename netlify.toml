@@ -1,10 +1,11 @@
 [build]
-  command = "hugo"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.128.0"  # Your Hugo version
-  GO_VERSION = "1.24"      # Specify Go version 1.19
+  HUGO_VERSION = "0.128.0"
+  HUGO_ENV = "production"
+
 [[headers]]
   for = "/*.xml"
   [headers.values]
