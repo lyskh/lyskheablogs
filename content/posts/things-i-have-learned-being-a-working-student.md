@@ -1,6 +1,6 @@
 +++
 date = '2026-06-08T15:20:41+08:00'
-draft = true
+draft = false
 title = 'Things I Have Learned Being a Working Student'
 description = 'Looking back on my years as a working student, I share the lessons I learned about responsibility, independence, gratitude, relationships, rest, and trusting God through life's most challenging seasons.'
 tags = ['Gratitude', 'Faith', 'Life Lessons']
