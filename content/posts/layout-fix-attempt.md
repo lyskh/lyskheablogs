@@ -5,7 +5,7 @@ title = 'The Psychology of Ordinary Comfort'
 description = 'How familiarity steadies us'
 tags = ['Stability', 'Novelty']
 categories = ['Personal Growth', 'Life']
-image = '/images/8.webp'
+image = '/images/11.webp'
 +++
 
 ## Gentle Entry Into the Ordinary
