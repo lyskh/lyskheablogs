@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faith on The Everything Journal</title>
-    <link>https://theeverythingjournal.netlify.app/tags/faith/</link>
+    <link>http://localhost:1313/tags/faith/</link>
     <description>Recent content in Faith on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://theeverythingjournal.netlify.app/tags/faith/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/faith/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things I Have Learned So Far Being 23</title>
-      <link>https://theeverythingjournal.netlify.app/things-i-have-learned-so-far-being-23/</link>
+      <link>http://localhost:1313/things-i-have-learned-so-far-being-23/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/things-i-have-learned-so-far-being-23/</guid>
+      <guid>http://localhost:1313/things-i-have-learned-so-far-being-23/</guid>
       <description>&lt;h2 id=&#34;growing-up-in-a-different-world&#34;&gt;Growing Up in a Different World&lt;/h2&gt;&#xA;&lt;p&gt;Being a young adult in this time and age feels like having a lot more responsibilities with fewer rewards, at least from where I stand.&lt;/p&gt;&#xA;&lt;p&gt;AI is rapidly changing the nature of work. The world is becoming more urbanized, and the planet seems to suffer every day. We could aim to work in big corporations, and yet inflation often eats away what is left of our wages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things I Have Learned Being a Working Student</title>
-      <link>https://theeverythingjournal.netlify.app/things-i-have-learned-being-a-working-student/</link>
+      <link>http://localhost:1313/things-i-have-learned-being-a-working-student/</link>
       <pubDate>Mon, 08 Jun 2026 15:20:41 +0800</pubDate>
-      <guid>https://theeverythingjournal.netlify.app/things-i-have-learned-being-a-working-student/</guid>
+      <guid>http://localhost:1313/things-i-have-learned-being-a-working-student/</guid>
       <description>&lt;p&gt;Being a working student taught me more than how to earn money. It taught me about responsibility, regret, relationships, exhaustion, resilience, and faith. Looking back now after graduating college just last May, there are many lessons I wish I had learned earlier.&lt;/p&gt;&#xA;&lt;p&gt;I started working as a young professional when I stepped into senior high school. Being part of a middle-class family in the Philippine economy meant we had to work harder than the system seemed to reward people. It was during the pandemic, so the job I worked at was a work-from-home customer service representative position. I lasted only six months.&lt;/p&gt;</description>
     </item>
   </channel>
