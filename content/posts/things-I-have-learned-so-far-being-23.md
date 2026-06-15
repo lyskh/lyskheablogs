@@ -20,7 +20,7 @@ Here is what I have learned so far:
 
 Disclaimer: these reflect only my subjective opinions basing on what I personally have experienced.
 
-# Old and traditional values have truths and values in them.
+## Old and traditional values have truths and values in them.
 
 What do I mean by this?
 
@@ -32,7 +32,7 @@ My generation has the highest statistics increase of sexually transmitted diseas
 
 Public health data consistently shows that adolescents and young adults carry a disproportionately high burden of STI cases despite having access to more information than previous generations.
 
-# Saving money is important.
+## Saving money is important.
 
 With the unending rise of inflation with little to now signs of downtime in their rates, financial discipline is more important now than ever.
 
@@ -40,7 +40,7 @@ We might be the first generation to have a little statistics on people getting i
 
 I think it is unfair.
 
-# Health, peace, and relationships are very important.
+## Health, peace, and relationships are very important.
 
 We often take our bodies and health for granted. Especially now that most of us are often pushed into having a sedentary lifestyle, it is more more noticeable how little attention we sometimes give to our physical well-being.
 
@@ -52,7 +52,7 @@ Most people are only concerned about themselves, but if you do have people in yo
 
 If you can add to your circle, good. But focus more on maintaining the quality of your friendships and ensuring that the people around you are helping you become a better person, and vice versa.
 
-# Your environment matters.
+## Your environment matters.
 
 People often neglect the amount of influence they allow in their lives. They consume whatever is given to them without critically thinking about them first.
 
