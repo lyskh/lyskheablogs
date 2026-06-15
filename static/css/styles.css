@@ -19,7 +19,7 @@
 
     img {
         opacity: 90%;
-        margin: 0;
+    }
 }
 
 /* Font Faces */
@@ -39,8 +39,6 @@
 
 /* Base Elements Styles */
 html {
-        max-width: 90%;
-        word-break: break-word;
     background-color: var(--primary-bg);
 }
 
@@ -147,7 +145,6 @@ button {
     background-color: var(--primary-text);
     color: var(--primary-bg);
     border: none;
-        margin-top: 1rem;
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s;
@@ -201,7 +198,6 @@ nav a {
 
 .container {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .row {
@@ -380,10 +376,9 @@ ul.search-results li a {
     margin: 5rem auto;
 }
 
-        margin-bottom: 2rem;
+/* Post Styles */
 .post {
     padding: 0 1rem;
-    min-width: 0;
 }
 
 .post ul {
