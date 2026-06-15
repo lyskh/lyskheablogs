@@ -2,8 +2,8 @@
     {{ $min := 1 }}{{ $max := .Site.Params.numImages }}{{ $dateUnix := .Date.Unix }}{{ $slugLen := len .Slug }}{{ $hashBase := (add (mul $dateUnix 1103515245) (mul $slugLen 12345)) }}{{ $hashMod := (mod $hashBase 1000000) }}{{ $imageNumber := (add (mod $hashMod (sub $max $min)) $min) }}
 
     <section class="hero"
-    style='background-image: url("{{ with .Params.image }}{{ . }}{{ else }}/images/{{ $imageNumber }}.webp{{ end }}"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
-    id="heroSection" onload="adjustTextColor(this)">
+    style="background-image: url('{{ with .Params.image }}{{ . }}{{ else }}/images/{{ $imageNumber }}.webp{{ end }}'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;"
+    id="heroSection">
         <div>
             <h1 class="p-name" id="textOverlay">{{ .Title }}</h1>
         </div>
