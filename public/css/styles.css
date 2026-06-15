@@ -269,6 +269,7 @@ header .logo img {
 .hero h1 {
     font-size: 2rem;
     color: var(--primary-text);
+    line-height: 1.1;
 }
 
 /* Search Styles */
