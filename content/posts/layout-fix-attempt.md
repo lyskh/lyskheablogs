@@ -1,63 +1,102 @@
 +++
-date = '2026-06-15T16:38:39+08:00'
+date = '2026-06-15T14:38:39+08:00'
 draft = false
-title = 'The Psychology of Ordinary Comfort'
-description = 'How familiarity steadies us'
-tags = ['Stability', 'Novelty']
+title = 'Things I Have Learned So Far Being 23'
+description = "Growing up, I was given many pieces of advice about life. As a young adult, I've learned that some of them still hold true, while others require deeper reflection. These are my personal thoughts on navigating modern life, preserving meaningful values, building strong relationships, and trusting God through uncertainty."
+tags = ['Gratitude', 'Life Lessons']
 categories = ['Personal Growth', 'Life']
 image = '/images/11.webp'
 +++
+## Growing Up in a Different World
 
-## Gentle Entry Into the Ordinary
+Being a young adult in this time and age feels like having a lot more responsibilities with fewer rewards, at least from where I stand.
 
-Going to school meant doing mundane things: wearing the same old uniforms that I've used for years, waking up at the same time (inconsistently, however) whenever the alarm clock rings, and undergoing the same old routine I'm used to.
+AI is rapidly changing the nature of work. The world is becoming more urbanized, and the planet seems to suffer every day. We could aim to work in big corporations, and yet inflation often eats away what is left of our wages.
 
-Whenever these things happened, I mostly just cruised through on autopilot, *not minding each step as long as I could get to the next.* After all, the main goal was to go to school.
+"It's a hard-knock life for us," indeed.
 
-It wasn't until life disrupted my schedule and routine that I realized I longed for the **comfort of the mundanity** of the rituals I did every morning.
+A lot of the advice we were given growing up seems less straightforward than it once did. We are left trying to assess which lessons still work and which ones need to be adapted in a rapidly changing environment shaped by shifting social and economic realities.
 
-Waking up, turning my alarm off, bathing, eating, and brushing were all things I did during those days. This routine I had, I mostly took for granted. *When life forces you to shift from the repetition of your habits, you may feel the pressure—and only then do you appreciate it.* Indeed, it can be growth. However, there is a certain **comfort and stability** that allow you to rest when things are predictable. 
+The quality of our lives depends largely on the quality of our lifestyle, relationships, values, and environment. These are some of the lessons I have learned so far.
 
-> It is not bad to undergo periods of change in life that leave us pressured and force us to adjust, whether drastically or minimally. Humans are made to evolve, and sometimes that looks like change and novelty.
+*Disclaimer: These reflections are only my subjective opinions based on what I have personally experienced.*
 
-## The Brain’s Love Language Is Predictability
+## Old and Traditional Values Have Truths in Them
 
-But humans are also made for comfort. Pressure changes us, and it can—and should—always be for the better, but prolonged periods under stress are never healthy. **We cannot grow under constant tension; we need recovery.**
+What do I mean by this?
 
-Rest allows humans to adapt with resilience and is crucial for emotional regulation. This is why meditation and self-care routines are rising in response to the hustle-and-grind culture. **Predictable rest allows adaptability and stability without inhibiting innovation and learning.**
+First off, I am not entirely traditional, nor do I believe everyone should live exactly the way I do. However, according to what I have observed, some of the values we may think of as "old" or "traditional" may have existed for a reason.
 
-*With how unpredictable the world is becoming, choosing predictability is not regression. It is regulation.*
+One example of this is in the area of purity.
 
-## Why Repetition Feels Like Safety (Not Boredom)
+I have failed in this aspect before, and to this day I am still repenting. Though I stumble at times, I strive not to repeat those mistakes by the help of His grace.
 
-Habits have always been a topic among scholars and ordinary people alike. According to what we are taught, growth comes from constant change. 
+One traditional value I have reconsidered is sexual restraint. While it is often dismissed as outdated, I have personally learned that some boundaries exist not to restrict us, but to protect us.
 
-Being ambitious and always seeking the next milestone is good, but you can only handle so much change. You need to allow your body and mind to take a step back and **cherish what you have been through**, learning the lessons along the way—whether the milestone you've achieved is small or big. 
+It is ironic that we belong to one of the most informed generations in history, yet sexually transmitted infections remain especially common among young people. Public health data consistently shows that adolescents and young adults carry a disproportionately high burden of STI cases despite having access to more information than previous generations.
 
-Otherwise, you're just a hypervigilant machine, gathering more and more experiences without actually *experiencing* them fully, missing the lessons they were made to teach.
+## Saving Money Is Important
 
-Repetition has always been seen as mundane, boring, ordinary—almost unworthy for those chasing greatness. Overreliance on habits can lead to rigidity, especially when breaking them feels threatening.
+With the unending rise of inflation and little sign of meaningful relief, financial discipline is more important now than ever.
 
-But that's not what I want to focus on today.
+Many young adults today face rising housing costs, increasing living expenses, and economic uncertainty while still being expected to achieve the same milestones previous generations pursued. Whether that expectation is realistic is another question entirely.
 
-The truth is, we can never fully grow and achieve the greatness we want until we allow ourselves to feel **pressure** *and* simultaneously embrace the **comfort of familiarity and rest**. Pressure and pause, together, allow adaptability, innovation, sustained creativity, and emotional maturity. 
+I think it is unfair.
 
-## Comfort Is Not Laziness: A Cultural Rebuttal
+## Health, Peace, and Relationships Are Very Important
 
-Productivity culture frames comfort and predictability as weakness. Yet, research shows that **predictability—whether in routine or schedule—actually enhances our capacity to handle growth.** When routines become comfort zones, they allow us to return, rest, meditate, and reflect on what we’ve learned. 
+We often take our bodies and health for granted. Especially now that many of us are pushed into increasingly sedentary lifestyles, it becomes more noticeable how little attention we sometimes give to our physical well-being.
 
-> Rest is not a sign that growth doesn’t matter; on the contrary, it is essential. Recovery during ordinary, mundane acts may actually help us become more grounded, stable, and emotionally regulated.
+Have an active lifestyle, and develop the patience and discipline to take care of your body.
 
-There is a difference between **escaping into predictability** and **leaning into ordinary routines for recovery without compromising growth**.  
+Peace is equally important.
 
-That could look like journaling, meditating on lessons learned, taking care of your body, or regulating emotionally. Taking a pause ensures you are actually experiencing life, rather than operating on autopilot. 
+Many of us spend our days constantly stimulated, constantly scrolling, constantly worrying about what comes next. Yet some of the most meaningful moments in life happen when we slow down enough to be present.
 
-*When we embrace these moments, creativity follows.* Each person can generate unique meaning from their hardships, regardless of how common they might be. Learning to rest in these crucial times allows space for individuality, perspective, and the value one can offer. Humans naturally value what they can contribute—it gives a sense of impact and purpose, proving that all experiences are not for nothing.
+Protecting your peace is not laziness. Sometimes it is wisdom.
 
-## The Quiet Power of the Ordinary
+Relationships require maintenance.
 
-Ever since my schedule and life routine were disrupted, I have longed for those simple routines I had before. They allowed me to be calm and plan my day. Afterwards, I would reflect on what I experienced.
+In the age of AI and chatbots, this is one of the easiest things to overlook.
 
-It is harder now, but I never lost hope. **Recovery can be recreated intentionally.** Growth and rest can coexist, and it may look different for everyone. It can be as simple as journaling, praying, or sipping your favorite drink.  
+Humans are messy, and it is hard to deny ourselves and actively place ourselves in situations where people may inconvenience us, especially in an age that often emphasizes self-love above all else.
 
-> In a world of increasing unpredictability, choosing familiarity and rest is a quiet, radical act of self-care—and, in fact, growth.
+Most people are naturally concerned with their own lives, but if you do have people who are important to you, being able to reciprocate their efforts to connect with you—or even initiating those efforts yourself—is necessary as you grow older.
+
+You do not need a lot of friends, only a few quality ones.
+
+If you can add to your circle, good. But focus more on maintaining the quality of your friendships and ensuring that the people around you are helping you become a better person.
+
+## Your Environment Matters
+
+People often underestimate the amount of influence they allow into their lives. They consume whatever is placed before them without always stopping to think critically about it first.
+
+I sincerely hope that my readers are not taking everything I say at face value and will hold me accountable if necessary.
+
+But environment matters more than people realize.
+
+It can make your life easier or harder. It can fill you with hope or leave you in despair.
+
+No matter which lifestyles, ideas, or influencers you follow, make sure they are leading you toward a life that is richer, healthier, and more meaningful.
+
+## The Seeds We Plant in Our Twenties
+
+I have learned that life is more fulfilling when we give more of ourselves. It is less exciting and ultimately less meaningful when I choose to self-love my way through everything all the time.
+
+The quality of your life depends on the quality of your lifestyle, relationships, values, and environment.
+
+And there is no sowing season better than our early twenties.
+
+We may not immediately see the harvest of all the little seeds we plant today, but sooner or later they will come to fruition. And when they do, we will eat of their fruit, whether rotten or good.
+
+## Trusting God Through It All
+
+Do not worry too much, and trust the Lord with all your heart.
+
+All we can do is trust, do our best, pray, and love.
+
+For life is all about loving God above all else and loving others as you love yourself.
+
+## Sources
+
+* Centers for Disease Control and Prevention (CDC). *Adolescents and Young Adults*. https://www.cdc.gov/std/treatment-guidelines/adolescents.htm
