@@ -48,7 +48,7 @@ Have an active lifestyle, and develop the patience and discipline to take care o
 
 Relationships require maintenance. In the age of AI and chatbots, this is the one that's easier to overlook. Humans are messy, and it is hard to deny oneself and actively put yourself in situations where people might inconvenience you especially in an age of self-love.
 
-Most people are only concerned about themselves, but if you do have people in your life who are important to you- being able to reciprocate their efforts in connecting you, or you initiating efforts to keep your connection with them is very necessary as you grow older.
+Most people are only concerned about themselves, but if you do have people in your life who are important to you—being able to reciprocate their efforts in connecting with you, or you initiating efforts to keep your connection with them is very necessary as you grow older.
 
 If you can add to your circle, good. But focus more on maintaining the quality of your friendships and ensuring that the people around you are helping you become a better person, and vice versa.
 
