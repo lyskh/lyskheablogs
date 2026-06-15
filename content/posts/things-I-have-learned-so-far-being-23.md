@@ -34,7 +34,7 @@ Public health data consistently shows that adolescents and young adults carry a 
 
 ## Saving money is important.
 
-With the unending rise of inflation with little to now signs of downtime in their rates, financial discipline is more important now than ever.
+With the unending rise of inflation with little to no signs of downtime in their rates, financial discipline is more important now than ever.
 
 We might be the first generation to have a little statistics on people getting inheritance. We are expected to join the rat race, and still acquire the same things, milestones, and lifestyle older generations had back then.
 
@@ -70,6 +70,6 @@ And there is no sowing season better than our early twenties.
 
 We may not see the harvest of all the little seeds we have planted, but sooner or later they will come to fruition, and we will eat of its fruit, rotten or good.
 
-Don't worry too much, and trust the Lord with all your heart. All we could do is trust, do our best, pray - and love.
+Don't worry too much, and trust the Lord with all your heart. All we could do is trust, do our best, pray—and love.
 
 For life is all about loving God above all and loving others as you loved yourself.
