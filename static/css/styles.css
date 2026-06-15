@@ -19,7 +19,7 @@
 
     img {
         opacity: 90%;
-    }
+        margin: 0;
 }
 
 /* Font Faces */
@@ -39,6 +39,8 @@
 
 /* Base Elements Styles */
 html {
+        max-width: 90%;
+        word-break: break-word;
     background-color: var(--primary-bg);
 }
 
@@ -145,6 +147,7 @@ button {
     background-color: var(--primary-text);
     color: var(--primary-bg);
     border: none;
+        margin-top: 1rem;
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s;
@@ -377,7 +380,7 @@ ul.search-results li a {
     margin: 5rem auto;
 }
 
-/* Post Styles */
+        margin-bottom: 2rem;
 .post {
     padding: 0 1rem;
     min-width: 0;
