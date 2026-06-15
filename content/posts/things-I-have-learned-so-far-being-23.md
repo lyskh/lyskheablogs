@@ -2,9 +2,9 @@
 date = "2026-06-15"
 draft = false
 title = "Things I Have Learned So Far Being 23"
-description = "Growing up, I was given many pieces of advice about life. As a young adult, I've learned that some of them still hold true, while others require deeper reflection. These are my personal thoughts on navigating modern life, preserving meaningful values, building strong relationships, and trusting God through uncertainty."
+description = 'These are my personal thoughts on navigating modern life, preserving meaningful values, building strong relationships, and trusting God through uncertainty.'
 tags = ['Gratitude', 'Faith', 'Life Lessons']
-categories = ['Personal Growth', 'Life']
+categories = ['Personal Growth']
 image = '/images/11.webp'
 +++
 
