@@ -197,15 +197,13 @@ nav a {
 }
 
 .container {
-    display: flex;
+    display: block;
 }
 
 .row {
-    flex-direction: row;
 }
 
 .col {
-    flex-direction: column;
 }
 
 aside.tableOfContentContainer {
@@ -269,8 +267,7 @@ header .logo img {
 }
 
 .hero h1 {
-    /* Responsive sizing: scales with viewport but clamps between usable limits */
-    font-size: clamp(1.6rem, 6vw, 3rem);
+    font-size: 2rem;
     color: var(--primary-text);
     line-height: 1.05;
     margin: 0;
@@ -592,30 +589,10 @@ h2 > code {
     }
 }
 
-/* Ensure post layout stacks on small screens regardless of extra classes */
-@media (max-width: 640px) {
-    .container {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    .post {
-        width: 100%;
-        max-width: none;
-        padding: 0 1rem;
-    }
-
-    aside.tableOfContentContainer {
-        display: block;
-        order: 2;
-        width: 100%;
-        min-width: 0;
-    }
-}
-
 .hero {
     margin-bottom: 1rem;
 }
+
 
 @media (min-width: 641px) {
     .hero {
@@ -627,8 +604,19 @@ h2 > code {
     }
 
     .container {
+        display: flex;
         margin: 3rem auto;
         max-width: 800px;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .col {
+        display: flex;
+        flex-direction: column;
     }
 
     .post {
