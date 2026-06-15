@@ -197,13 +197,16 @@ nav a {
 }
 
 .container {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .row {
+    flex-direction: row;
 }
 
 .col {
+    flex-direction: column;
 }
 
 aside.tableOfContentContainer {
@@ -594,7 +597,8 @@ h2 > code {
 /* Ensure post layout stacks on small screens regardless of extra classes */
 @media (max-width: 640px) {
     .container {
-        display: block;
+        flex-direction: column;
+        align-items: stretch;
     }
 
     .post {
@@ -625,7 +629,6 @@ h2 > code {
     }
 
     .container {
-        display: flex;
         margin: 3rem auto;
         max-width: 800px;
     }
@@ -633,16 +636,6 @@ h2 > code {
     .post {
         max-width: 800px;
         padding: 0 2rem;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .col {
-        display: flex;
-        flex-direction: column;
     }
 
     nav ul {

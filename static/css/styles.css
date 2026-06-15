@@ -197,13 +197,15 @@ nav a {
 }
 
 .container {
-    display: block;
+    display: flex;
 }
 
 .row {
+    flex-direction: row;
 }
 
 .col {
+    flex-direction: column;
 }
 
 aside.tableOfContentContainer {
@@ -593,7 +595,6 @@ h2 > code {
     margin-bottom: 1rem;
 }
 
-
 @media (min-width: 641px) {
     .hero {
         min-height: 300px;
@@ -604,19 +605,8 @@ h2 > code {
     }
 
     .container {
-        display: flex;
         margin: 3rem auto;
         max-width: 800px;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .col {
-        display: flex;
-        flex-direction: column;
     }
 
     .post {
