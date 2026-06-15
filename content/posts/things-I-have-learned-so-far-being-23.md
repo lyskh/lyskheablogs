@@ -7,8 +7,9 @@ tags = ['Gratitude', 'Life Lessons']
 categories = ['Personal Growth', 'Life']
 image = '/images/11.webp'
 +++
-
 Being a young adult in this time and age kind of like having a lot more responsibilities with lesser rewards (at least in my mind) compared to generations before.
+
+Being a working student taught me more than how to earn money. It taught me about responsibility, regret, relationships, exhaustion, resilience, and faith. Looking back now after graduating college just last May, there are many lessons I wish I had learned earlier.
 
 AI is rapidly changing the nature of work, the world is too urbanized, and the planet seems to suffer every day. We could aim to work in big corporates, and yet inflation will eat what is left of our wages.
 
