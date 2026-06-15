@@ -1,12 +1,13 @@
 +++
-date = '2026-06-15T14:38:39+08:00'
+date = "2026-06-15"
 draft = false
-title = 'Things I Have Learned So Far Being 23'
+title = "Things I Have Learned So Far Being 23"
 description = "Growing up, I was given many pieces of advice about life. As a young adult, I've learned that some of them still hold true, while others require deeper reflection. These are my personal thoughts on navigating modern life, preserving meaningful values, building strong relationships, and trusting God through uncertainty."
-tags = ['Gratitude', 'Life Lessons']
+tags = ['Gratitude', 'Faith', 'Life Lessons']
 categories = ['Personal Growth', 'Life']
 image = '/images/11.webp'
 +++
+
 ## Growing Up in a Different World
 
 Being a young adult in this time and age feels like having a lot more responsibilities with fewer rewards, at least from where I stand.
