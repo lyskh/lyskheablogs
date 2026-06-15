@@ -14,8 +14,6 @@ Being a young adult in this time and age feels like having a lot more responsibi
 
 AI is rapidly changing the nature of work. The world is becoming more urbanized, and the planet seems to suffer every day. We could aim to work in big corporations, and yet inflation often eats away what is left of our wages.
 
-"It's a hard-knock life for us," indeed.
-
 A lot of the advice we were given growing up seems less straightforward than it once did. We are left trying to assess which lessons still work and which ones need to be adapted in a rapidly changing environment shaped by shifting social and economic realities.
 
 The quality of our lives depends largely on the quality of our lifestyle, relationships, values, and environment. These are some of the lessons I have learned so far.
@@ -100,4 +98,4 @@ For life is all about loving God above all else and loving others as you love yo
 
 ## Sources
 
-* Centers for Disease Control and Prevention (CDC). *Adolescents and Young Adults*. https://www.cdc.gov/std/treatment-guidelines/adolescents.htm
+* Centers for Disease Control and Prevention (CDC). *Adolescents and Young Adults*.
