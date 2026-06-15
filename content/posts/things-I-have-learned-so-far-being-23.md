@@ -42,11 +42,13 @@ I think it is unfair.
 
 ## Health, peace, and relationships are very important.
 
-We often take our bodies and health for granted. Especially now that most of us are often pushed into having a sedentary lifestyle, it is more more noticeable how little attention we sometimes give to our physical well-being.
+We often take our bodies and health for granted. Especially now that most of us are often pushed into having a sedentary lifestyle, it is more noticeable how little attention we sometimes give to our physical well-being.
 
 Have an active lifestyle, and develop the patience and discipline to take care of your body.
 
-Relationships require maintenance. In the age of AI and chatbots, this is the one that's easier to overlook. Humans are messy, and it is hard to deny oneself and actively put yourself in situations where people might inconvenience you especially in an age of self-love.
+## Relationships require maintenance. 
+
+In the age of AI and chatbots, this is the one that's easier to overlook. Humans are messy, and it is hard to deny oneself and actively put yourself in situations where people might inconvenience you especially in an age of self-love.
 
 Most people are only concerned about themselves, but if you do have people in your life who are important to you—being able to reciprocate their efforts in connecting with you, or you initiating efforts to keep your connection with them is very necessary as you grow older.
 
