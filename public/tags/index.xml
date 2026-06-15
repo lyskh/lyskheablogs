@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Everything Journal</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://theeverythingjournal.netlify.app/tags/</link>
     <description>Recent content in Tags on The Everything Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theeverythingjournal.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Faith</title>
-      <link>http://localhost:1313/tags/faith/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/faith/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/faith/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/faith/</guid>
       <description></description>
     </item>
     <item>
       <title>Gratitude</title>
-      <link>http://localhost:1313/tags/gratitude/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/gratitude/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gratitude/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/gratitude/</guid>
       <description></description>
     </item>
     <item>
       <title>Life Lessons</title>
-      <link>http://localhost:1313/tags/life-lessons/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/life-lessons/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life-lessons/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/life-lessons/</guid>
       <description></description>
     </item>
     <item>
       <title>Joy</title>
-      <link>http://localhost:1313/tags/joy/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/joy/</link>
       <pubDate>Wed, 22 Apr 2026 21:12:17 +0800</pubDate>
-      <guid>http://localhost:1313/tags/joy/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/joy/</guid>
       <description></description>
     </item>
     <item>
       <title>Peace</title>
-      <link>http://localhost:1313/tags/peace/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/peace/</link>
       <pubDate>Wed, 22 Apr 2026 21:12:17 +0800</pubDate>
-      <guid>http://localhost:1313/tags/peace/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/peace/</guid>
       <description></description>
     </item>
     <item>
       <title>Nothingness</title>
-      <link>http://localhost:1313/tags/nothingness/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/nothingness/</link>
       <pubDate>Sat, 21 Mar 2026 17:09:44 +0800</pubDate>
-      <guid>http://localhost:1313/tags/nothingness/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/nothingness/</guid>
       <description></description>
     </item>
     <item>
       <title>Stability</title>
-      <link>http://localhost:1313/tags/stability/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/stability/</link>
       <pubDate>Sat, 21 Mar 2026 17:09:44 +0800</pubDate>
-      <guid>http://localhost:1313/tags/stability/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/stability/</guid>
       <description></description>
     </item>
     <item>
       <title>Novelty</title>
-      <link>http://localhost:1313/tags/novelty/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/novelty/</link>
       <pubDate>Tue, 13 Jan 2026 10:49:03 +0800</pubDate>
-      <guid>http://localhost:1313/tags/novelty/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/novelty/</guid>
       <description></description>
     </item>
     <item>
       <title>Hope</title>
-      <link>http://localhost:1313/tags/hope/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/hope/</link>
       <pubDate>Sun, 30 Mar 2025 17:00:47 +0800</pubDate>
-      <guid>http://localhost:1313/tags/hope/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/hope/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindfulness</title>
-      <link>http://localhost:1313/tags/mindfulness/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/mindfulness/</link>
       <pubDate>Sat, 01 Mar 2025 13:13:25 +0800</pubDate>
-      <guid>http://localhost:1313/tags/mindfulness/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/mindfulness/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://localhost:1313/tags/life/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/life/</link>
       <pubDate>Sat, 22 Feb 2025 13:32:28 +0800</pubDate>
-      <guid>http://localhost:1313/tags/life/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Author</title>
-      <link>http://localhost:1313/tags/author/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/author/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/author/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/author/</guid>
       <description></description>
     </item>
     <item>
       <title>Short Prose</title>
-      <link>http://localhost:1313/tags/short-prose/</link>
+      <link>https://theeverythingjournal.netlify.app/tags/short-prose/</link>
       <pubDate>Wed, 19 Feb 2025 00:08:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/short-prose/</guid>
+      <guid>https://theeverythingjournal.netlify.app/tags/short-prose/</guid>
       <description></description>
     </item>
   </channel>

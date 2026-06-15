@@ -254,6 +254,8 @@ header .logo img {
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 .hero div {
@@ -269,7 +271,8 @@ header .logo img {
 .hero h1 {
     font-size: 2rem;
     color: var(--primary-text);
-    line-height: 1.1;
+    line-height: 1.05;
+    margin: 0;
 }
 
 /* Search Styles */
@@ -585,6 +588,27 @@ h2 > code {
 
     aside.tableOfContentContainer {
         display: none;
+    }
+}
+
+/* Ensure post layout stacks on small screens regardless of extra classes */
+@media (max-width: 640px) {
+    .container {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .post {
+        width: 100%;
+        max-width: none;
+        padding: 0 1rem;
+    }
+
+    aside.tableOfContentContainer {
+        display: block;
+        order: 2;
+        width: 100%;
+        min-width: 0;
     }
 }
 
