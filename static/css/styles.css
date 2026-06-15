@@ -269,7 +269,8 @@ header .logo img {
 }
 
 .hero h1 {
-    font-size: 2rem;
+    /* Responsive sizing: scales with viewport but clamps between usable limits */
+    font-size: clamp(1.6rem, 6vw, 3rem);
     color: var(--primary-text);
     line-height: 1.05;
     margin: 0;
