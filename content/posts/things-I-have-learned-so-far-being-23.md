@@ -7,76 +7,96 @@ tags = ['Gratitude', 'Life Lessons']
 categories = ['Personal Growth', 'Life']
 image = '/images/11.webp'
 +++
-Being a young adult in this time and age kind of like having a lot more responsibilities with lesser rewards (at least in my mind) compared to generations before.
+## Growing Up in a Different World
 
-AI is rapidly changing the nature of work, the world is too urbanized, and the planet seems to suffer every day. We could aim to work in big corporates, and yet inflation will eat what is left of our wages.
+Being a young adult in this time and age feels like having a lot more responsibilities with fewer rewards, at least from where I stand.
+
+AI is rapidly changing the nature of work. The world is becoming more urbanized, and the planet seems to suffer every day. We could aim to work in big corporations, and yet inflation often eats away what is left of our wages.
 
 "It's a hard-knock life for us," indeed.
 
-All those advices they gave to us growing up seems less straightforward and we are left to assess which ones really work in this rapidly changing environment, including social and economical dynamics.
+A lot of the advice we were given growing up seems less straightforward than it once did. We are left trying to assess which lessons still work and which ones need to be adapted in a rapidly changing environment shaped by shifting social and economic realities.
 
-Here is what I have learned so far:
+The quality of our lives depends largely on the quality of our lifestyle, relationships, values, and environment. These are some of the lessons I have learned so far.
 
-Disclaimer: these reflect only my subjective opinions basing on what I personally have experienced.
+*Disclaimer: These reflections are only my subjective opinions based on what I have personally experienced.*
 
-## Old and traditional values have truths and values in them.
+## Old and Traditional Values Have Truths in Them
 
 What do I mean by this?
 
-Now, first off, I am not entirely traditional and I don't impose any values I think anyone should implement. But according to what I have observed, some of the values we may think as "old" or "traditional" could have been used as protection in certain circumstances if they were implemented.
+First off, I am not entirely traditional, nor do I believe everyone should live exactly the way I do. However, according to what I have observed, some of the values we may think of as "old" or "traditional" may have existed for a reason.
 
-One example of this is in the area of purity. I have failed in this aspect before, and till now I am repenting and though I fail at times, I strive to not do them again by the help of His grace.
+One example of this is in the area of purity.
 
-My generation has the highest statistics increase of sexually transmitted disease. It is a sad phenomenon but it is true. Along with the improvement of birth control procedures, people have been riskier with their mindset in terms of their sexual health.
+I have failed in this aspect before, and to this day I am still repenting. Though I stumble at times, I strive not to repeat those mistakes by the help of His grace.
 
-Public health data consistently shows that adolescents and young adults carry a disproportionately high burden of STI cases despite having access to more information than previous generations.
+One traditional value I have reconsidered is sexual restraint. While it is often dismissed as outdated, I have personally learned that some boundaries exist not to restrict us, but to protect us.
 
-## Saving money is important.
+It is ironic that we belong to one of the most informed generations in history, yet sexually transmitted infections remain especially common among young people. Public health data consistently shows that adolescents and young adults carry a disproportionately high burden of STI cases despite having access to more information than previous generations.
 
-With the unending rise of inflation with little to no signs of downtime in their rates, financial discipline is more important now than ever.
+## Saving Money Is Important
 
-We might be the first generation to have a little statistics on people getting inheritance. We are expected to join the rat race, and still acquire the same things, milestones, and lifestyle older generations had back then.
+With the unending rise of inflation and little sign of meaningful relief, financial discipline is more important now than ever.
+
+Many young adults today face rising housing costs, increasing living expenses, and economic uncertainty while still being expected to achieve the same milestones previous generations pursued. Whether that expectation is realistic is another question entirely.
 
 I think it is unfair.
 
-## Health, peace, and relationships are very important.
+## Health, Peace, and Relationships Are Very Important
 
-We often take our bodies and health for granted. Especially now that most of us are often pushed into having a sedentary lifestyle, it is more noticeable how little attention we sometimes give to our physical well-being.
+We often take our bodies and health for granted. Especially now that many of us are pushed into increasingly sedentary lifestyles, it becomes more noticeable how little attention we sometimes give to our physical well-being.
 
 Have an active lifestyle, and develop the patience and discipline to take care of your body.
 
-## Relationships require maintenance. 
+Peace is equally important.
 
-In the age of AI and chatbots, this is the one that's easier to overlook. Humans are messy, and it is hard to deny oneself and actively put yourself in situations where people might inconvenience you especially in an age of self-love.
+Many of us spend our days constantly stimulated, constantly scrolling, constantly worrying about what comes next. Yet some of the most meaningful moments in life happen when we slow down enough to be present.
 
-Most people are only concerned about themselves, but if you do have people in your life who are important to you—being able to reciprocate their efforts in connecting with you, or you initiating efforts to keep your connection with them is very necessary as you grow older.
+Protecting your peace is not laziness. Sometimes it is wisdom.
 
-If you can add to your circle, good. But focus more on maintaining the quality of your friendships and ensuring that the people around you are helping you become a better person, and vice versa.
+Relationships require maintenance.
 
-## Your environment matters.
+In the age of AI and chatbots, this is one of the easiest things to overlook.
 
-People often neglect the amount of influence they allow in their lives. They consume whatever is given to them without critically thinking about them first.
+Humans are messy, and it is hard to deny ourselves and actively place ourselves in situations where people may inconvenience us, especially in an age that often emphasizes self-love above all else.
 
-I do hope that my readers are not taking anything I am saying at face value and will hold me accountable if necessary.
+Most people are naturally concerned with their own lives, but if you do have people who are important to you, being able to reciprocate their efforts to connect with you—or even initiating those efforts yourself—is necessary as you grow older.
 
-But environment matters more than people realize. It can make your life easier or harder. It can fill you with hope or leave you in despair.
+You do not need a lot of friends, only a few quality ones.
 
-With that said, no matter which lifestyles or influencers you are following, make sure that if you wanted these values in your life, they will lead you toward a life that is richer, healthier, and more meaningful.
+If you can add to your circle, good. But focus more on maintaining the quality of your friendships and ensuring that the people around you are helping you become a better person.
 
-I have learned that life is more fulfilling if we give more of ourselves, and it is less exciting and meaningful if I self-love my way all the time.
+## Your Environment Matters
+
+People often underestimate the amount of influence they allow into their lives. They consume whatever is placed before them without always stopping to think critically about it first.
+
+I sincerely hope that my readers are not taking everything I say at face value and will hold me accountable if necessary.
+
+But environment matters more than people realize.
+
+It can make your life easier or harder. It can fill you with hope or leave you in despair.
+
+No matter which lifestyles, ideas, or influencers you follow, make sure they are leading you toward a life that is richer, healthier, and more meaningful.
+
+## The Seeds We Plant in Our Twenties
+
+I have learned that life is more fulfilling when we give more of ourselves. It is less exciting and ultimately less meaningful when I choose to self-love my way through everything all the time.
 
 The quality of your life depends on the quality of your lifestyle, relationships, values, and environment.
 
 And there is no sowing season better than our early twenties.
 
-We may not see the harvest of all the little seeds we have planted, but sooner or later they will come to fruition, and we will eat of its fruit, rotten or good.
+We may not immediately see the harvest of all the little seeds we plant today, but sooner or later they will come to fruition. And when they do, we will eat of their fruit, whether rotten or good.
 
-Don't worry too much, and trust the Lord with all your heart. All we could do is trust, do our best, pray—and love.
+## Trusting God Through It All
 
-For life is all about loving God above all and loving others as you loved yourself.
+Do not worry too much, and trust the Lord with all your heart.
 
----
+All we can do is trust, do our best, pray, and love.
 
-*Sources*
+For life is all about loving God above all else and loving others as you love yourself.
 
-- Centers for Disease Control and Prevention (CDC). *Adolescents and Young Adults*. Retrieved from https://www.cdc.gov/std/treatment-guidelines/adolescents.htm
+## Sources
+
+* Centers for Disease Control and Prevention (CDC). *Adolescents and Young Adults*. https://www.cdc.gov/std/treatment-guidelines/adolescents.htm
