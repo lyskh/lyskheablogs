@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faith on The Everything Journal</title>
+    <link>http://localhost:1313/tags/faith/</link>
+    <description>Recent content in Faith on The Everything Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2026 15:20:41 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/faith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Have Learned Being a Working Student</title>
+      <link>http://localhost:1313/things-i-have-learned-being-a-working-student/</link>
+      <pubDate>Mon, 08 Jun 2026 15:20:41 +0800</pubDate>
+      <guid>http://localhost:1313/things-i-have-learned-being-a-working-student/</guid>
+      <description>&lt;p&gt;Being a working student taught me more than how to earn money. It taught me about responsibility, regret, relationships, exhaustion, resilience, and faith. Looking back now after graduating college just last May, there are many lessons I wish I had learned earlier.&lt;/p&gt;&#xA;&lt;p&gt;I started working as a young professional when I stepped into senior high school. Being part of a middle-class family in the Philippine economy meant we had to work harder than the system seemed to reward people. It was during the pandemic, so the job I worked at was a work-from-home customer service representative position. I lasted only six months.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
