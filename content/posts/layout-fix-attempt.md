@@ -1,5 +1,5 @@
 +++
-date = '2026-01-13T10:49:03+08:00'
+date = '2026-06-15T16:38:39+08:00'
 draft = false
 title = 'The Psychology of Ordinary Comfort'
 description = 'How familiarity steadies us'
