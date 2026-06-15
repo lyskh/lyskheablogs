@@ -75,3 +75,7 @@ We may not see the harvest of all the little seeds we have planted, but sooner o
 Don't worry too much, and trust the Lord with all your heart. All we could do is trust, do our best, pray—and love.
 
 For life is all about loving God above all and loving others as you loved yourself.
+
+Sources
+
+Centers for Disease Control and Prevention. Adolescents and Young Adults. Retrieved from the CDC STI Treatment Guidelines.
