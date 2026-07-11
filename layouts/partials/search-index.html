@@ -1,6 +1,6 @@
 <script>
     window.store = {
-    {{ range where .Site.RegularPages "Section" "posts" }}
+    {{ range where (where .Site.RegularPages "Type" "posts") "Section" "posts" }}
     // You can use any unique identifier here
     "{{ .Permalink }}": {
         // You can customize your searchable fields using any .Page parameters

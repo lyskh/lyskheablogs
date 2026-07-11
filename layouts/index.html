@@ -65,10 +65,11 @@
 
     
   
-        {{ $paginator := .Paginate .Site.RegularPages 6 }} <!-- Limits posts to 6 per page -->
+        {{ $posts := where .Site.RegularPages "Type" "posts" }}
+        {{ $paginator := .Paginate $posts 6 }} <!-- Limits posts to 6 per page -->
 
         <div class="cards" id="results">
-            {{ range $paginator.Pages }}  <!-- Correctly paginates posts -->
+            {{ range $paginator.Pages }}
             <div class="card h-entry">
                 <a href="{{ .Permalink }}" class="u-url">
                     <img src="{{ .Params.image }}" alt="{{ .Title }}" class="u-photo">

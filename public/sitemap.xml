@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:1313/space-between-ordinary-days/</loc>
+        <lastmod>2026-07-12T01:44:32&#43;08:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>http://localhost:1313/things-i-have-learned-so-far-being-23/</loc>
         <lastmod>2026-06-15T00:00:00Z</lastmod>
         <changefreq>weekly</changefreq>

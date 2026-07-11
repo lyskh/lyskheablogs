@@ -1,10 +1,10 @@
 {{ $paginator := .Paginator }}
-{{ if .IsHome }}
-  {{ $posts := where .Site.RegularPages "Type" "posts" }}  
+{{ if or .IsHome (not .Section) }}
+  {{ $posts := where .Site.RegularPages "Type" "posts" }}
   {{ $paginator = .Paginate $posts 6 }}
 {{ else }}
   {{ $currentSection := .Section }}
-  {{ $posts := where .Site.Pages "Section" $currentSection }}
+  {{ $posts := where .Site.RegularPages "Section" $currentSection }}
   {{ $paginator = .Paginate $posts 6 }}
 {{ end }}
 

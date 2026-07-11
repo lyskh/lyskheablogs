@@ -18,14 +18,31 @@ function displayResults(results, store) {
     }
 }
 
-// Get the query parameter(s)
-const params = new URLSearchParams(window.location.search)
-const query = params.get('query')
+const SEARCH_STORAGE_KEY = 'searchQuery'
 
-// Perform a search if there is a query
-if (query) {
-    // Retain the search input in the form when displaying results
-    document.getElementById('search-input').setAttribute('value', query)
+const searchForm = document.getElementById('search')
+const searchInput = document.getElementById('search-input')
+const isSearchPage = window.location.pathname.replace(/\/$/, '') === '/search'
+
+if (searchForm && searchInput) {
+    searchForm.addEventListener('submit', (event) => {
+        const queryValue = searchInput.value.trim()
+        if (!queryValue) {
+            return
+        }
+
+        event.preventDefault()
+        sessionStorage.setItem(SEARCH_STORAGE_KEY, queryValue)
+        window.location.href = '/search/'
+    })
+}
+
+function performSearch(query) {
+    if (!query) {
+        return
+    }
+
+    searchInput.setAttribute('value', query)
 
     const idx = lunr(function () {
         this.ref('id')
@@ -45,8 +62,35 @@ if (query) {
         }
     })
 
-    // Perform the search
-    const results = idx.search(query)
-    // Update the list with results
+    let results = idx.search(query)
+    const excludedUrls = [
+        window.location.origin + '/search/',
+        window.location.origin + '/search'
+    ]
+
+    results = results.filter(result => {
+        const itemUrl = window.store[result.ref] && window.store[result.ref].url
+        return itemUrl && !excludedUrls.includes(itemUrl)
+    })
+
     displayResults(results, window.store)
+}
+
+if (searchInput && !isSearchPage) {
+    searchInput.value = ''
+    sessionStorage.removeItem(SEARCH_STORAGE_KEY)
+}
+
+if (isSearchPage) {
+    const params = new URLSearchParams(window.location.search)
+    let query = params.get('query') || sessionStorage.getItem(SEARCH_STORAGE_KEY)
+
+    if (query) {
+        performSearch(query)
+        sessionStorage.removeItem(SEARCH_STORAGE_KEY)
+
+        if (window.location.search) {
+            history.replaceState(null, '', window.location.pathname)
+        }
+    }
 }
