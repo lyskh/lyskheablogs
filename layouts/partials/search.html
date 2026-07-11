@@ -1,5 +1,18 @@
 <form class="form-inline" id="search" method="get">
     <label for="search-input" hidden="">Search site</label>
-    <input id="search-input" name="query" placeholder="Type here to search" type="text"/>
+    <input id="search-input" name="query" placeholder="Type here to search" type="text" autocomplete="off"/>
+    <label for="search-filter" hidden="">Filter by topic</label>
+    <select id="search-filter" name="filter">
+        <option value="">All topics</option>
+        {{ $categories := slice }}
+        {{ range where .Site.RegularPages "Type" "posts" }}
+            {{ range .Params.categories }}
+                {{ $categories = $categories | append . }}
+            {{ end }}
+        {{ end }}
+        {{ range sort (uniq $categories) }}
+            <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+    </select>
     <button type="submit" value="search">Search</button>
 </form>

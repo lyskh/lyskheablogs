@@ -6,6 +6,7 @@
     </div>
     <nav class="menu">
         <ul>
+            <li><a href="{{ .Site.Home.Permalink }}">Home</a></li>
             {{- range site.Menus.main }}
                 <li>
                     <a href="{{ .URL }}">{{ .Name }}</a>
@@ -13,7 +14,4 @@
             {{- end }}
         </ul>
     </nav>
-    <div class="header-search">
-        {{ partial "search.html" . }}
-    </div>
 </header>

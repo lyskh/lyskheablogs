@@ -1,12 +1,13 @@
 <script>
     window.store = {
     {{ range where (where .Site.RegularPages "Type" "posts") "Section" "posts" }}
-    // You can use any unique identifier here
     "{{ .Permalink }}": {
-        // You can customize your searchable fields using any .Page parameters
-        "title": "{{ .Title  }}",
-        "content": {{ .Content | plainify }}, // Strip out HTML tags
-        "url": "{{ .Permalink }}"
+        "title": {{ .Title | jsonify }},
+        "description": {{ .Description | default .Summary | plainify | jsonify }},
+        "content": {{ .Content | plainify | jsonify }},
+        "tags": {{ .Params.tags | default (slice) | jsonify }},
+        "categories": {{ .Params.categories | default (slice) | jsonify }},
+        "url": {{ .Permalink | jsonify }}
         },
     {{ end }}
     }
