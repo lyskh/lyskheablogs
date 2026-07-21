@@ -2,6 +2,10 @@
 date = '2026-07-22T06:10:58+08:00'
 draft = false
 title = 'Waking Up Can Be Enough'
+description = 'A quiet reminder that every morning is a gift of God's grace. Even when yesterday's burdens remain, His presence, strength, and mercies are new.'
+tags = ['Gratitude', 'Faith', 'Life Lessons']
+categories = ['Personal Growth']
+image = '/images/12.webp'
 +++
 
 Each day brings a fresh start. Most of the time, we bring the problems of yesterday with each morning we wake up. The gift of waking up each day is the grace of going through them with a fresh mind, body, and sometimes even perspective.
